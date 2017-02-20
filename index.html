@@ -1,0 +1,521 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+	<title>CityFinder</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<!-- Styles -->
+	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+
+	<style type="text/css"> <!-- Victor's custom styles -->
+			.progress /* Outer part of bar */
+			{
+				border-radius: 25px; /* Rounded borders */
+				position: absolute;
+				width: 30%;
+				height: 10%;
+				background-color: grey;
+				top: 20%;
+			}
+
+			.bar /* Inner part of progress bar */
+			{
+				position: absolute;
+				left: -5%;
+				width: 1%; /* Start with a barely-visible bar */
+				height: 20%; /* Take up entirety of parent bar's height */
+				background-color: green;
+				border-radius: 25px;
+				bottom: 0;
+			}
+
+			#simInputs
+			{
+				display: none; /* Hidden by default */
+			}
+		</style>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script> <!-- jQuery -->
+	<script src="assets/js/jquery.scrollex.min.js"></script> <!-- Scrollex -->
+	<!-- <script src="assets/js/jquery.scrolly.min.js"></script> --> <!-- Scrolly -->
+	<script src="assets/js/skel.min.js"></script> <!-- UI skeleton -->
+	<script src="assets/js/util.js"></script> <!-- Utilities -->
+	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+	<!-- <script src="assets/js/main.js"></script> --> <!-- Main file from DreamWeaver -->
+	<script src="assets/js/jquery-ui.min.js"></script> <!-- jQuery UI -->
+	<script type="application/javascript">
+			/**
+			*	Fetches the appropriate colour to display the percentage in the bar as.
+			*	@param percentage The percentage to fetch a colour for.
+			**/
+			function getColour(percentage)
+			{
+				/* The colour to use is determined by the range into which the percentage falls */
+
+				if (percentage < 10) // Really bad
+				{
+					return "#ff0000";
+				}
+
+				else if (percentage < 20) // Still really bad
+				{
+					return "#ff5050";
+				}
+
+				else if (percentage < 30) // Still bad
+				{
+					return "#ff6600";
+				}
+
+				else if (percentage < 40)
+				{
+					return "#ff9933";
+				}
+
+				else if (percentage < 50)
+				{
+					return "#ffcc00";
+				}
+
+				else if (percentage < 60)
+				{
+					return "#ffff00";
+				}
+
+				else if (percentage < 70)
+				{
+					return "#ccff33";
+				}
+
+				else if (percentage < 80)
+				{
+					return "#99ff33";
+				}
+
+				else if (percentage < 90)
+				{
+					return "#66ff66";
+				}
+
+				else
+				{
+					return "#00ff00";
+				}
+			}
+
+			/**
+			* Sums an array of numbers.
+			* @param arr The array of numbers to sum.
+			* @return The sum of the numbers in the array.
+			**/
+			function sum(arr)
+			{
+				s = 0; // The sum to return
+
+				for (var num in arr) // Loop through #s in array
+				{
+					s += num; // Add the number to the sum
+				}
+
+				return s; // Return the sum
+			}
+
+			$(document).ready(function() // jQuery wrapper. Can't do anything until the document is ready for manipulation.
+				{
+					var provinces = {"Alberta": "AB", "Ontario": "ON", "Manitoba": "MN", "Quebec": "QB"}; // Maps a province name to its abbreviation
+
+					$.getJSON("CityProcessor", {reqType: "list", method: "ajax"}, function(cityList) // Load the list of cities
+						{
+							var citNum = 0; // Index of city in list
+
+							for (var cityName in cityList) // Loop through the city names
+							{
+								/* Select 1st city */
+								if (citNum == 0) // First city
+								{
+									$("#cityDropdown").append("<option selected value=\"" + cityList[cityName] + "\">" + cityList[cityName] + "</option>"); // Add name to the dropdown and select it
+								}
+
+								else // Not first city
+								{
+									$("#cityDropdown").append("<option value=\"" + cityList[cityName] + "\">" + cityList[cityName] + "</option>"); // Just add option to select
+								}
+
+								++citNum; // Prevent all cities from being selected
+							}
+						}
+					);
+
+					$("#slink").click(function() // Listens for a change in the dropdown, and calls the processor when that happens
+						{
+							console.log("Select changed");
+
+							$.getJSON("CityProcessor", {reqType: "search", cityName: $("#cityDropdown").val(), method: "ajax"}, function(data) // Tell the back-end to search for data and return data in a format usable by JavaScript
+								{
+									console.log(data);
+
+									/** Populate scores and bars **/
+
+									/* Education score */
+									$("#edScore p").html(data.education); // Show the education score
+									$("#edScore .bar").css({ "width": data.education + "%", "background-color": getColour(data.education)}); // The score is already a percentage, use it as the bar's width. Also, use the appropriate colour for the bar's score
+
+									/* Income score */
+									$("#inScore p").html(data.income); // Show the income score
+									$("#inScore .bar").css({"width": data.income + "%", "background-color": getColour(data.income)}); // Use the score as a percentage for the bar's width
+
+									/* Labour score */
+									$("#emScore p").html(data.labour); // Show the labour score
+									$("#emScore .bar").css({"width": data.labour + "%", "background-color": getColour(data.labour)}); // Use the appropriate colour and width for the bar
+
+									/* Housing score */
+									$("#houScore p").html(data.housing); // Show the housing score
+									$("#houScore .bar").css({"width": data.housing + "%", "background-color": getColour(data.housing)}); // Use the appropriate colour and width
+
+									/* Calculate and display overall score */
+									weights = [Number($("#csdw").val()), Number($("#inw").val()), Number($("#housw").val()), Number($("#edw").val()), Number($("#law").val()), Number($("#cwbw").val()), Number($("#nrspw").val()), Number($("#popw").val())]; // Get user-entered weights of each score
+									ovScoreNum = data.education*weights[3]+data.income*weights[1]+data.labour*weights[4]+data.housing*weights[2]; // Overall score numerator
+									ovScoreDen = weights[3]+weights[1]+weights[4]+weights[2];  // Overall score denominator
+									overallScore = (ovScoreNum)/(ovScoreDen); // Calculate weighted average for overall score
+									$("#ovScore").html(Math.round(overallScore) + "/100"); // Display the overall score and the total (10 in all scores, with the given weights
+								}
+							);
+						}
+					);
+
+					$("#simBut").click(function() // Button to show/hide similarity inputs
+						{
+							$(this).text(function(i, text) // Set the button's text
+								{
+									return text == "Show similar city inputs" ? "Hide similar city inputs" : "Show similar city inputs";
+								}
+							);
+
+							$("#simInputs").toggle("fold", 1000);
+						}
+					);
+
+					$("#findSimCits").click(function() // Button to find similar cities
+						{
+							scoreStr = [$("#csdw").val(), $("#inw").val(), $("#housw").val(), $("#edw").val(), $("#law").val(), $("#cwbw").val(), $("#nrspw").val(), $("#popw").val()].join(";"); // Get all score weights and join them as a string
+							simCit = $("#cityDropdown").val(); // The name of the city to find similar cities to
+							console.log("Scores: %s\nCity: %s", scoreStr, simCit); // DEBUGGING
+
+							$.getJSON("CityProcessor", {cityName: simCit, scores: scoreStr, method: "ajax", reqType: "similarity"}, function(simCits) // Fetch the list of similar cities from the back-end using the given criteria
+								{
+									optNum = 1; // Option number
+
+									$("#cityDropdown").html(""); // Clear the dropdown
+									console.log(simCits); // DEBUGGING: log response
+
+									for (var name in simCits) // Loop through names of cities
+									{
+										console.log("name = " + simCits[name]);
+
+										if (optNum == 1) // Select first city
+										{
+											$("#cityDropdown").append("<option selected value=\"" + simCits[name] + "\">" + simCits[name] + "</option>"); // Add the new cities to the dropdown
+										}
+
+										else
+										{
+											$("#cityDropdown").append("<option value=\"" + simCits[name] + "\">" + simCits[name] + "</option>"); // Add the new cities to the dropdown
+										}
+
+										optNum++; // Increment option number
+									}
+								}
+							);
+						}
+					);
+
+					$("#resetButton").click(function() // Reset the dropdown to show the original list of cities when the reset button is clicked
+						{
+							$("#cityDropdown").empty(); // Clear the dropdown
+
+							$.getJSON("CityProcessor", {reqType: "list", method: "ajax"}, function(cityList) // Load the list of cities
+								{
+									var citNum = 0; // Index of city in list
+
+									for (var cityName in cityList) // Loop through the city names
+									{
+										/* Select 1st city */
+										if (citNum == 0) // First city
+										{
+											$("#cityDropdown").append("<option selected value=\"" + cityList[cityName] + "\">" + cityList[cityName] + "</option>"); // Add name to the dropdown and select it
+										}
+
+										else // Not first city
+										{
+											$("#cityDropdown").append("<option value=\"" + cityList[cityName] + "\">" + cityList[cityName] + "</option>"); // Just add option to select
+										}
+
+											++citNum; // Prevent all cities from being selected
+									}
+								}
+							);
+						}
+					);
+				}
+			);
+		</script>
+</head>
+<body>
+
+<!-- Sidebar -->
+<section id="sidebar">
+	<div class="inner">
+		<nav>
+			<ul>
+				<li><a href="#intro">Welcome</a></li>
+				<li><a href="#one">Who we are</a></li>
+				<li><a href="#two">What we do</a></li>
+				<li><a href="#three">Get in touch</a></li>
+			</ul>
+		</nav>
+	</div>
+</section>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+	<!-- Intro -->
+	<section id="intro" class="wrapper style1 fullscreen fade-up">
+		<div class="inner">
+			<h1>// CityFinder //</h1>
+			<p>Search for your city!</p>
+			<form action="CityProcessor">
+				<select name="cityName" id="cityDropdown">
+				</select>
+				<input type="hidden" value="search" name="reqType" />
+			</form>
+			<br/>
+			<ul class="actions">
+				<li><a href="#one" id="slink" class="button scrolly" id="submitButton"> SEARCH </a></li>
+				<li>
+					<a class="button scrolly" id="resetButton"> <!-- Allows user to reset list of cities to original list -->
+						Show original list
+					</a>
+				</li>
+				<li>
+					<a class="button scrolly" id="findSimCits"> <!-- Allows user to find similar cities -->
+						Find similar cities!
+					</a>
+				</li>
+			</ul>
+		</div>
+		<section id="similarity"> <!-- Contains all HTML pertaining to similarity -->
+			<button id="simBut">Show similar city inputs</button>
+			<div id="simInputs">
+				Choose how much you value each category&#58;
+				<br/>
+				<label for="csdw">CSD score</label>
+				<select name="csdw" id="csdw">
+					<option value="0">0</option>
+					<option value="1">1</option>
+					<option selected value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
+				<label for="inw">Income</label>
+				<select name="inw" id="inw">
+					<option value="0">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option selected value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
+				<label for="housw">Housing</label>
+				<select name="housw" id="housw">
+					<option value="0">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option selected value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
+				<label for="edw">Education</label>
+				<select name="edw" id="edw">
+					<option value="0">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option selected value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
+				<label for="law">Labour Activity</label>
+				<select name="law" id="law">
+					<option value="0">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option selected value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
+				<label for="cwbw">CWB Score</label>
+				<select name="cwbw" id="cwbw">
+					<option value="0">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option selected value="7">7</option>
+					<option value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
+				<label for="nrspw">Global Non-Response Percentage</label>
+				<select name="nrspw" id="nrspw">
+					<option value="0">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option selected value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
+				<label for="popw">Population</label>
+				<select name="popw" id="popw">
+					<option value="0">0</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option selected value="8">8</option>
+					<option value="9">9</option>
+					<option value="10">10</option>
+				</select>
+			</div>
+		</section>
+		<section>
+			<h1 style="float: left; top: 10%; display: outline;">Overall Score&#58;</h1><h1 style="float: left; display: outline; top: 10%;" id="ovScore"></h1> <!-- Div to hold overall score -->
+		</section>
+	</section>
+
+	<!-- One -->
+	<section id="one" class="wrapper style2 spotlights">
+		<section>
+			<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
+			<div class="content" id="edScore">
+				<div class="inner">
+					<h2>Education</h2>
+					<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+					<ul class="actions">
+						<!--<li><a href="#" class="button">VIEW SIMILAR</a></li> -->
+						<li>
+							<div class="progress">
+								<div class="bar">
+								</div>
+							</div> <!-- Used to draw bar for score -->
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<section>
+			<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
+			<div class="content">
+				<div class="inner" id="inScore">
+					<h2>Income</h2>
+					<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+					<ul class="actions">
+						<!--	<li><a href="#" class="button">VIEW SIMILAR</a></li> -->
+						<li>
+							<div class="progress">
+								<div class="bar">
+								</div>
+							</div> <!-- Used to draw bar for score -->
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<section>
+			<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+			<div class="content">
+				<div class="inner" id="emScore">
+					<h2>Employment</h2>
+					<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+					<ul class="actions">
+						<!-- <li><a href="#" class="button">VIEW SIMILAR</a></li> -->
+						<li>
+							<div class="progress">
+								<div class="bar">
+								</div>
+							</div> <!-- Used to draw bar for score -->
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+		<section>
+			<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
+			<div class="content">
+				<div class="inner" id="houScore">
+					<h2>Housing</h2>
+					<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+					<ul class="actions">
+						<!-- <li><a href="#" class="button">VIEW SIMILAR</a></li> -->
+						<li>
+							<div class="progress">
+								<div class="bar">
+								</div>
+							</div> <!-- Used to draw bar for score -->
+						</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+	</section>
+	<!-- Footer -->
+	<footer id="footer" class="wrapper style1-alt">
+		<div class="inner">
+			<ul class="menu">
+				<li>&copy; RATEMYCITY. All rights reserved.</li>
+			</ul>
+		</div>
+	</footer>
+</body>
+</html>

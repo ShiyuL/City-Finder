@@ -1,0 +1,8 @@
+Finding cities similar to "Hamilton" ({"csdCode": 3514019, "csdName": "Hamilton", "income": 92, "edScore": 65, "houScore": 97, "labActScore": 87, "cwbScore": 85, "globNonRespPerc": 35, "prov": "Ontario", "pop": 10420, "crimeScore": 65})
+[
+{"csdCode": 3541015, "csdName": "Huron-Kinloss", "income": 94, "edScore": 57, "houScore": 96, "labActScore": 88, "cwbScore": 84, "globNonRespPerc": 38, "prov": "Ontario", "pop": 6640, "crimeScore": 0},
+{"csdCode": 5933812, "csdName": "Bonaparte 3", "income": -1, "edScore": -1, "houScore": -1, "labActScore": -1, "cwbScore": 67, "globNonRespPerc": 35, "prov": "British Columbia", "pop": 135, "crimeScore": 0},
+{"csdCode": 5917041, "csdName": "Colwood", "income": 91, "edScore": 65, "houScore": 97, "labActScore": 89, "cwbScore": 85, "globNonRespPerc": 17, "prov": "British Columbia", "pop": 16000, "crimeScore": 35},
+{"csdCode": 6204011, "csdName": "Hall Beach", "income": 70, "edScore": 22, "houScore": 62, "labActScore": 64, "cwbScore": 54, "globNonRespPerc": 16, "prov": "Nunavut", "pop": 540, "crimeScore": -1},
+{"csdCode": 1313024, "csdName": "Saint-Jacques", "income": 84, "edScore": 49, "houScore": 96, "labActScore": 80, "cwbScore": 77, "globNonRespPerc": 34, "prov": "New Brunswick", "pop": 1470, "crimeScore": 0},
+]

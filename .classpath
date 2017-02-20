@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 2016.1/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 2016.1/lib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files (x86)/JetBrains/IntelliJ IDEA Community Edition 2016.1/lib/junit-4.12.jar"/>
+	<classpathentry kind="output" path="out/production/CityFinder"/>
+</classpath>

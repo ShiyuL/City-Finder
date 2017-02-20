@@ -1,0 +1,809 @@
+Ref_Date,City,Province,Police Dept.,Type,Geographical classification,STATISTICS,Vector,Coordinate,Value
+2013,Abbotsford, British Columbia,, municipal,59009,Crime severity index,v65813501,609.9,72.83
+2013,Addington Highlands, Ontario, Ontario Provincial Police, municipal,35086,Crime severity index,v65809769,298.9,..
+2013,Admaston/Bromley, Ontario, Ontario Provincial Police, municipal,35166,Crime severity index,v65810453,355.9,18.58
+2013,Airdrie, Alberta, Royal Canadian Mounted Police, municipal,48899,Crime severity index,v65813297,592.9,66.53
+2013,Aklavik, Northwest Territories, Royal Canadian Mounted Police, rural,61730,Crime severity index,v66460914,34.1,0
+2013,Akwesasne Mohawk, Ontario,, municipal,35002,Crime severity index,v65809001,234.9,69.73
+2013,Alexandria, Ontario,, municipal,35003,Crime severity index,v65961786,711.9,..
+2013,Alma, Quebec,, municipal,24003,Crime severity index,v65806925,61.9,..
+2013,Altona, Manitoba,, municipal,46001,Crime severity index,v65811473,440.9,53.07
+2013,Amherst, Nova Scotia,, municipal,12001,Crime severity index,v65806313,10.9,104.01
+2013,Amherstburg, Ontario,, municipal,35007,Crime severity index,v65809037,237.9,20.57
+2013,Amos, Quebec,, municipal,24004,Crime severity index,v65806937,62.9,..
+2013,Anishinabek, Ontario,, municipal,35006,Crime severity index,v65809025,236.9,124.48
+2013,Annapolis Royal, Nova Scotia,, municipal,12002,Crime severity index,v65806325,11.9,..
+2013,Antigonish, Nova Scotia, Royal Canadian Mounted Police, municipal,12752,Crime severity index,v65806565,31.9,100.55
+2013,Apsley (North Kawartha), Ontario, Ontario Provincial Police, municipal,35085,Crime severity index,v65809757,297.9,26.08
+2013,Arctic Bay, Nunavut, Royal Canadian Mounted Police, rural,62019,Crime severity index,v66461544,86.1,0
+2013,Arnprior, Ontario, Ontario Provincial Police, municipal,35458,Crime severity index,v65811149,413.9,..
+2013,Arviat, Nunavut, Royal Canadian Mounted Police, rural,62014,Crime severity index,v66461484,81.1,152.89
+2013,Arviat, Northwest Territories, Royal Canadian Mounted Police, rural,61763,Crime severity index,v66461046,45.1,..
+2013,Asbestos, Quebec,, municipal,24011,Crime severity index,v65806949,63.9,..
+2013,Assiniboia, Saskatchewan, Royal Canadian Mounted Police, municipal,47880,Crime severity index,v65812289,508.9,..
+2013,Athabaska, Alberta, Royal Canadian Mounted Police, municipal,48792,Crime severity index,v65812877,557.9,..
+2013,Atikokan, Ontario, Ontario Provincial Police, municipal,35172,Crime severity index,v65810525,361.9,44.81
+2013,Atikokan, Ontario,, municipal,35353,Crime severity index,v65811089,408.9,..
+2013,Aylmer, Quebec,, municipal,24155,Crime severity index,v65807669,123.9,..
+2013,Aylmer, Ontario,, municipal,35014,Crime severity index,v65809097,242.9,34.90
+2013,Baie-comeau, Quebec,, municipal,24015,Crime severity index,v65806961,64.9,..
+2013,Baker Lake, Northwest Territories, Royal Canadian Mounted Police, rural,61760,Crime severity index,v66461010,42.1,..
+2013,Baker Lake, Nunavut, Royal Canadian Mounted Police, rural,62013,Crime severity index,v66461472,80.1,247.09
+2013,Banff, Alberta, Royal Canadian Mounted Police, municipal,48731,Crime severity index,v65812733,545.9,124.23
+2013,Barrhead, Alberta, Royal Canadian Mounted Police, municipal,48934,Crime severity index,v65813417,602.9,..
+2013,Barrie, Ontario,, municipal,35021,Crime severity index,v65809169,248.9,47.58
+2013,Bathurst, New Brunswick,, municipal,13001,Crime severity index,v65806637,37.9,81.24
+2013,Battleford, Saskatchewan, Royal Canadian Mounted Police, municipal,47707,Crime severity index,v65812037,487.9,..
+2013,Beaumont, Alberta, Royal Canadian Mounted Police, municipal,48704,Crime severity index,v65812661,539.9,37.78
+2013,Beausejour, Manitoba, Royal Canadian Mounted Police, municipal,46783,Crime severity index,v65811761,464.9,75.91
+2013,Beaver Creek, Yukon, Royal Canadian Mounted Police, rural,60713,Crime severity index,v66460656,13.1,0
+2013,Bedford, Quebec,, municipal,24028,Crime severity index,v65961726,706.9,..
+2013,Behchoko, Northwest Territories, Royal Canadian Mounted Police, rural,61769,Crime severity index,v66461106,50.1,676.65
+2013,Belleterre, Quebec,, municipal,24151,Crime severity index,v65807633,120.9,..
+2013,Belleville, Ontario,, municipal,35027,Crime severity index,v65809241,254.9,91.69
+2013,Berwick, Nova Scotia,, municipal,12004,Crime severity index,v65961690,703.9,..
+2013,Biggar, Saskatchewan, Royal Canadian Mounted Police, municipal,47843,Crime severity index,v65812205,501.9,..
+2013,Blackfalds, Alberta, Royal Canadian Mounted Police, municipal,48019,Crime severity index,v80750910,722.9,82.24
+2013,Blackfalds, Alberta, Royal Canadian Mounted Police, municipal,48883,Crime severity index,v65813201,584.9,..
+2013,Blacks Harbour, New Brunswick,, municipal,13009,Crime severity index,v65961714,705.9,..
+2013,Blainville, Quebec,, municipal,24305,Crime severity index,v65808617,202.9,45.11
+2013,Blairmore, Alberta, Royal Canadian Mounted Police, municipal,48917,Crime severity index,v65813393,600.9,..
+2013,Blandford/Blenheim, Ontario, Ontario Provincial Police, municipal,35188,Crime severity index,v65810645,371.9,28.45
+2013,Blood Tribe (Standoff), Alberta,, municipal,48091,Crime severity index,v65812637,537.9,261.34
+2013,Boisbriand, Quebec,, municipal,24302,Crime severity index,v65808593,200.9,..
+2013,Boissevain, Manitoba, Royal Canadian Mounted Police, municipal,46817,Crime severity index,v65811857,472.9,36.81
+2013,Bonnechere Valley, Ontario, Ontario Provincial Police, municipal,35178,Crime severity index,v65810573,365.9,57.47
+2013,Bonnyville, Alberta, Royal Canadian Mounted Police, municipal,48742,Crime severity index,v65812745,546.9,165.33
+2013,Borden-Carleton, Prince Edward Island,, municipal,11013,Crime severity index,v65806277,7.9,..
+2013,Boucherville, Quebec,, municipal,24037,Crime severity index,v65806985,66.9,..
+2013,Bouctouche, New Brunswick, Royal Canadian Mounted Police, municipal,13705,Crime severity index,v65806817,52.9,72.14
+2013,Brandon, Manitoba,, municipal,46005,Crime severity index,v65811485,441.9,81.43
+2013,Brant County, Ontario, Ontario Provincial Police, municipal,35109,Crime severity index,v65809961,314.9,39.72
+2013,Brantford, Ontario,, municipal,35042,Crime severity index,v65809409,268.9,88.26
+2013,Bridgewater, Nova Scotia,, municipal,12006,Crime severity index,v65806337,12.9,67.62
+2013,Brighton Township, Ontario, Ontario Provincial Police, municipal,35017,Crime severity index,v65961546,691.9,..
+2013,Brockton, Ontario, Ontario Provincial Police, municipal,35145,Crime severity index,v65810273,340.9,56.99
+2013,Brockville, Ontario,, municipal,35046,Crime severity index,v65809457,272.9,73.93
+2013,Bromont, Quebec,, municipal,24040,Crime severity index,v65807009,68.9,52.37
+2013,Brooks, Alberta, Royal Canadian Mounted Police, municipal,48708,Crime severity index,v65812673,540.9,65.27
+2013,Brossard, Quebec,, municipal,24039,Crime severity index,v65806997,67.9,..
+2013,Burnaby, British Columbia, Royal Canadian Mounted Police, municipal,59703,Crime severity index,v65813691,625.9,79.52
+2013,Caledon, Ontario, Ontario Provincial Police, municipal,35461,Crime severity index,v65811161,414.9,24.66
+2013,Calgary, Alberta,, municipal,48014,Crime severity index,v65812517,527.9,59.93
+2013,Cambridge Bay, Nunavut, Royal Canadian Mounted Police, rural,62007,Crime severity index,v66461400,74.1,328.85
+2013,Cambridge Bay, Northwest Territories, Royal Canadian Mounted Police, rural,61761,Crime severity index,v66461022,43.1,..
+2013,Campbell River, British Columbia, Royal Canadian Mounted Police, municipal,59891,Crime severity index,v65814267,673.9,82.36
+2013,Campbellton, New Brunswick, Royal Canadian Mounted Police, municipal,13706,Crime severity index,v65806829,53.9,93.74
+2013,Camrose, Alberta,, municipal,48015,Crime severity index,v65812529,528.9,88.15
+2013,Canmore, Alberta, Royal Canadian Mounted Police, municipal,48729,Crime severity index,v65812721,544.9,57.91
+2013,Canora, Saskatchewan, Royal Canadian Mounted Police, municipal,47913,Crime severity index,v65812337,512.9,..
+2013,Cap-Pel�, New Brunswick, Royal Canadian Mounted Police, municipal,13751,Crime severity index,v65806877,57.9,51.20
+2013,Cap-de-la-madeleine, Quebec,, municipal,24051,Crime severity index,v65807069,73.9,..
+2013,Cape Breton Region, Nova Scotia,, municipal,12018,Crime severity index,v65806361,14.9,60.05
+2013,Cape Dorset, Nunavut, Royal Canadian Mounted Police, rural,62005,Crime severity index,v66461376,72.1,514
+2013,Cape Dorset, Northwest Territories, Royal Canadian Mounted Police, rural,61701,Crime severity index,v66460770,22.1,..
+2013,Caraquet, New Brunswick,, municipal,13002,Crime severity index,v65806649,38.9,..
+2013,Carcross, Yukon, Royal Canadian Mounted Police, rural,60715,Crime severity index,v66460680,15.1,0
+2013,Cardston, Alberta, Royal Canadian Mounted Police, municipal,48894,Crime severity index,v65813261,589.9,..
+2013,Carignan, Quebec,, municipal,24383,Crime severity index,v65808977,232.9,..
+2013,Carleton Place, Ontario, Ontario Provincial Police, municipal,35140,Crime severity index,v65810225,336.9,51.96
+2013,Carleton Place, Ontario,, municipal,35056,Crime severity index,v65809541,279.9,..
+2013,Carmacks, Yukon, Royal Canadian Mounted Police, rural,60700,Crime severity index,v66460524,2.1,0
+2013,Carman, Manitoba, Royal Canadian Mounted Police, municipal,46786,Crime severity index,v65811773,465.9,49.86
+2013,Caronport, Saskatchewan,, municipal,47010,Crime severity index,v65811893,475.9,33.46
+2013,Castlegar, British Columbia, Royal Canadian Mounted Police, municipal,59928,Crime severity index,v65814363,681.9,89.07
+2013,Central Huron, Ontario, Ontario Provincial Police, municipal,35215,Crime severity index,v65814399,684.9,55.87
+2013,Central Saanich, British Columbia,, municipal,59001,Crime severity index,v65813429,603.9,29.17
+2013,Chambly, Quebec,, municipal,24053,Crime severity index,v65807081,74.9,..
+2013,Chandler, Quebec,, municipal,24189,Crime severity index,v65961510,688.9,..
+2013,Charlesbourg, Quebec,, municipal,24055,Crime severity index,v65807093,75.9,..
+2013,Charlottetown, Prince Edward Island,, municipal,11002,Crime severity index,v65806241,4.9,84.76
+2013,Chatham-Kent, Ontario,, municipal,35009,Crime severity index,v65809049,238.9,71.22
+2013,Chesterfield Inlet, Nunavut, Royal Canadian Mounted Police, rural,62028,Crime severity index,v66461616,92.1,0
+2013,Chestermere, Alberta, Royal Canadian Mounted Police, municipal,48005,Crime severity index,v65812469,523.9,41.48
+2013,Chicoutimi, Quebec,, municipal,24061,Crime severity index,v65807117,77.9,..
+2013,Chilliwack, British Columbia, Royal Canadian Mounted Police, municipal,59724,Crime severity index,v65813811,635.9,104.30
+2013,Chisasibi, Quebec,, municipal,24375,Crime severity index,v65808893,225.9,..
+2013,Churchbridge, Saskatchewan,, municipal,47100,Crime severity index,v65961906,721.9,..
+2013,Ch�teauguay, Quebec,, municipal,24057,Crime severity index,v65807105,76.9,47.26
+2013,Claresholm, Alberta, Royal Canadian Mounted Police, municipal,48814,Crime severity index,v65812997,567.9,..
+2013,Clinton, Ontario, Ontario Provincial Police, municipal,35479,Crime severity index,v65811257,422.9,..
+2013,Clyde River, Northwest Territories, Royal Canadian Mounted Police, rural,61700,Crime severity index,v66460758,21.1,..
+2013,Clyde River, Nunavut, Royal Canadian Mounted Police, rural,62002,Crime severity index,v66461340,69.1,196.44
+2013,Coaldale, Alberta,, municipal,48021,Crime severity index,v65812553,530.9,..
+2013,Coaticook, Quebec,, municipal,24065,Crime severity index,v65807141,79.9,..
+2013,Cobourg, Ontario,, municipal,35071,Crime severity index,v65809649,288.9,40.86
+2013,Cochrane, Ontario, Ontario Provincial Police, municipal,35058,Crime severity index,v65809565,281.9,125.32
+2013,Cochrane, Alberta, Royal Canadian Mounted Police, municipal,48900,Crime severity index,v65813309,593.9,54.29
+2013,Codiac Regional, New Brunswick, Royal Canadian Mounted Police, municipal,13709,Crime severity index,v65806865,56.9,75.55
+2013,Cold Lake, Alberta, Royal Canadian Mounted Police, municipal,48797,Crime severity index,v65812937,562.9,114.63
+2013,Coldstream, British Columbia, Royal Canadian Mounted Police, municipal,59816,Crime severity index,v65814063,656.9,35.93
+2013,Collines-de-l'Outaouais Region, Quebec,, municipal,24382,Crime severity index,v65808965,231.9,42.14
+2013,Collingwood, Ontario, Ontario Provincial Police, municipal,35491,Crime severity index,v65811353,430.9,55.79
+2013,Collingwood (rural), Ontario, Ontario Provincial Police, rural,35095,Crime severity index,v65809841,304.9,..
+2013,Colwood, British Columbia, Royal Canadian Mounted Police, municipal,59819,Crime severity index,v65814099,659.9,34.96
+2013,Comox, British Columbia, Royal Canadian Mounted Police, municipal,59926,Crime severity index,v65814339,679.9,33.81
+2013,Coquitlam, British Columbia, Royal Canadian Mounted Police, municipal,59705,Crime severity index,v65813715,627.9,73.71
+2013,Coral Harbour, Northwest Territories, Royal Canadian Mounted Police, rural,61789,Crime severity index,v66461274,64.1,..
+2013,Coral Harbour, Nunavut, Royal Canadian Mounted Police, rural,62015,Crime severity index,v66461496,82.1,0
+2013,Corman Park, Saskatchewan,, municipal,47101,Crime severity index,v65812025,486.9,..
+2013,Corner Brook, Newfoundland and Labrador, Royal Newfoundland Constabulary, municipal,10502,Crime severity index,v65806229,3.9,86.49
+2013,Cornwall, Ontario,, municipal,35076,Crime severity index,v65809685,291.9,87.54
+2013,Cornwall, Prince Edward Island, Royal Canadian Mounted Police, municipal,11001,Crime severity index,v95715410,726.9,..
+2013,Courtenay, British Columbia, Royal Canadian Mounted Police, municipal,59895,Crime severity index,v65814279,674.9,86.33
+2013,Cowansville, Quebec,, municipal,24071,Crime severity index,v65807153,80.9,..
+2013,Cranbrook, British Columbia, Royal Canadian Mounted Police, municipal,59792,Crime severity index,v65813991,650.9,84.39
+2013,Creighton, Saskatchewan, Royal Canadian Mounted Police, municipal,47748,Crime severity index,v65812109,493.9,..
+2013,Creston, British Columbia, Royal Canadian Mounted Police, municipal,59036,Crime severity index,v80750922,723.9,111.47
+2013,Cudworth, Saskatchewan,, municipal,47089,Crime severity index,v65811977,482.9,..
+2013,Dakota Ojibway Communities, Manitoba,, municipal,46070,Crime severity index,v65811581,449.9,639.46
+2013,Dalmeny, Saskatchewan,, municipal,47091,Crime severity index,v65811989,483.9,15.63
+2013,Dauphin, Manitoba, Royal Canadian Mounted Police, municipal,46753,Crime severity index,v65811665,456.9,215.12
+2013,Dawson, Yukon, Royal Canadian Mounted Police, rural,60701,Crime severity index,v66460536,3.1,169.04
+2013,Dawson Creek, British Columbia, Royal Canadian Mounted Police, municipal,59822,Crime severity index,v65814111,660.9,141.11
+2013,Deep River, Ontario,, municipal,35078,Crime severity index,v65809709,293.9,23.88
+2013,Deline, Northwest Territories, Royal Canadian Mounted Police, rural,61738,Crime severity index,v66460998,41.1,0
+2013,Delta, British Columbia,, municipal,59004,Crime severity index,v65813453,605.9,56.85
+2013,Deseronto, Ontario,, municipal,35082,Crime severity index,v65809733,295.9,..
+2013,Deux-Montagnes Region, Quebec,, municipal,24258,Crime severity index,v65808353,180.9,42.41
+2013,Devon, Alberta, Royal Canadian Mounted Police, municipal,48896,Crime severity index,v65813273,590.9,59.62
+2013,Didsbury, Alberta, Royal Canadian Mounted Police, municipal,48874,Crime severity index,v65813153,580.9,..
+2013,Digby, Nova Scotia, Royal Canadian Mounted Police, municipal,12711,Crime severity index,v65806529,28.9,..
+2013,Dolbeau-mistassini, Quebec,, municipal,24078,Crime severity index,v65807177,82.9,..
+2013,Donnacona, Quebec,, municipal,24081,Crime severity index,v65807189,83.9,..
+2013,Drayton Valley, Alberta, Royal Canadian Mounted Police, municipal,48793,Crime severity index,v65812889,558.9,157.17
+2013,Driftpile, Alberta,, municipal,48055,Crime severity index,v65961654,700.9,..
+2013,Driftpile, Alberta,, municipal,48003,Crime severity index,v65812445,521.9,..
+2013,Drumheller, Alberta, Royal Canadian Mounted Police, municipal,48715,Crime severity index,v65812697,542.9,118.07
+2013,Drummond-North Elmsley, Ontario, Ontario Provincial Police, municipal,35039,Crime severity index,v65809373,265.9,..
+2013,Drummondville, Quebec,, municipal,24084,Crime severity index,v65807201,84.9,..
+2013,Dryden, Ontario,, municipal,35084,Crime severity index,v65809745,296.9,70.02
+2013,Dryden (Machin), Ontario, Ontario Provincial Police, municipal,35184,Crime severity index,v65810621,369.9,..
+2013,Dufferin (Amaranth), Ontario, Ontario Provincial Police, municipal,35160,Crime severity index,v65810393,350.9,24.03
+2013,Dufferin (East Garafraxa), Ontario, Ontario Provincial Police, municipal,35129,Crime severity index,v65810129,328.9,28.85
+2013,Dufferin (Melancthon), Ontario, Ontario Provincial Police, municipal,35161,Crime severity index,v65810405,351.9,32.65
+2013,Dufferin (Mono), Ontario, Ontario Provincial Police, municipal,35026,Crime severity index,v65809229,253.9,25.82
+2013,Dufferin (Mulmur), Ontario, Ontario Provincial Police, municipal,35163,Crime severity index,v65810429,353.9,27.13
+2013,Duncan, British Columbia, Royal Canadian Mounted Police, municipal,59028,Crime severity index,v65813645,621.9,..
+2013,Durham Region (Oshawa/Whitby/Ajax), Ontario,, municipal,35206,Crime severity index,v65810741,379.9,40.79
+2013,Eagle Village (Kebaowek), Quebec,, municipal,24063,Crime severity index,v65807129,78.9,..
+2013,East Algoma (Blind River), Ontario, Ontario Provincial Police, municipal,35050,Crime severity index,v65809505,276.9,100.56
+2013,East Algoma (Bruce Mines), Ontario, Ontario Provincial Police, municipal,35168,Crime severity index,v65810477,357.9,..
+2013,East Algoma (Elliot Lake), Ontario, Ontario Provincial Police, municipal,35143,Crime severity index,v65810261,339.9,63.61
+2013,East Algoma (Johnson), Ontario, Ontario Provincial Police, municipal,35167,Crime severity index,v65810465,356.9,..
+2013,East Algoma (North Shore), Ontario, Ontario Provincial Police, municipal,35054,Crime severity index,v65809529,278.9,..
+2013,East Algoma (Spanish), Ontario, Ontario Provincial Police, municipal,35053,Crime severity index,v65809517,277.9,..
+2013,East Algoma (Thessalon), Ontario, Ontario Provincial Police, municipal,35057,Crime severity index,v65809553,280.9,45.53
+2013,East Angus, Quebec,, municipal,24087,Crime severity index,v65807213,85.9,..
+2013,East Nipissing group of three, Ontario, Ontario Provincial Police, municipal,35061,Crime severity index,v65961558,692.9,..
+2013,East Perth, Ontario, Ontario Provincial Police, municipal,35488,Crime severity index,v65811329,428.9,..
+2013,East St. Paul, Manitoba,, municipal,46065,Crime severity index,v65811557,447.9,..
+2013,East Zorra/Tavistock, Ontario, Ontario Provincial Police, municipal,35189,Crime severity index,v65810657,372.9,30.05
+2013,Eastmain, Quebec,, municipal,24199,Crime severity index,v65807933,145.9,..
+2013,Edmonton, Alberta,, municipal,48033,Crime severity index,v65812565,531.9,93.34
+2013,Edmundston, New Brunswick,, municipal,13006,Crime severity index,v65806661,39.9,58.23
+2013,Edson, Alberta, Royal Canadian Mounted Police, municipal,48747,Crime severity index,v65812757,547.9,121.50
+2013,Eeyou Eenou Cree Region, Quebec,, municipal,24293,Crime severity index,v65808557,197.9,163.90
+2013,Elgin County, Ontario, Ontario Provincial Police, municipal,35105,Crime severity index,v65809925,311.9,30.69
+2013,Elliot Lake, Ontario,, municipal,35411,Crime severity index,v65811137,412.9,..
+2013,Eskasoni, Nova Scotia,, municipal,12065,Crime severity index,v65806517,27.9,..
+2013,Espanola, Ontario,, municipal,35098,Crime severity index,v65809865,306.9,56.03
+2013,Esquimalt, British Columbia,, municipal,59005,Crime severity index,v65813465,606.9,..
+2013,Essex, Ontario, Ontario Provincial Police, municipal,35101,Crime severity index,v65809901,309.9,30.92
+2013,Essex County (Leamington), Ontario, Ontario Provincial Police, municipal,35156,Crime severity index,v65810357,347.9,55.82
+2013,Essipit, Quebec,, municipal,24115,Crime severity index,v65807357,97.9,..
+2013,Esterhazy, Saskatchewan, Royal Canadian Mounted Police, municipal,47915,Crime severity index,v65812349,513.9,..
+2013,Estevan, Saskatchewan,, municipal,47017,Crime severity index,v65811905,476.9,101.75
+2013,Est�rel, Quebec,, municipal,24089,Crime severity index,v65961738,707.9,..
+2013,Exeter (South Huron), Ontario, Ontario Provincial Police, municipal,35481,Crime severity index,v65811281,424.9,41.52
+2013,Fairview, Alberta, Royal Canadian Mounted Police, municipal,48852,Crime severity index,v65813081,574.9,..
+2013,Farnham, Quebec,, municipal,24088,Crime severity index,v65807225,86.9,..
+2013,Faro, Yukon, Royal Canadian Mounted Police, rural,60702,Crime severity index,v66460548,4.1,0
+2013,Fergus, Ontario,, municipal,35104,Crime severity index,v65961810,713.9,..
+2013,Fermont, Quebec,, municipal,24364,Crime severity index,v65808857,222.9,..
+2013,File Hills First Nations, Saskatchewan,, municipal,47001,Crime severity index,v65811869,473.9,263.22
+2013,Flin Flon, Manitoba, Royal Canadian Mounted Police, municipal,46756,Crime severity index,v65811677,457.9,134.11
+2013,Fort Good Hope, Northwest Territories, Royal Canadian Mounted Police, rural,61732,Crime severity index,v66460938,36.1,0
+2013,Fort Liard, Northwest Territories, Royal Canadian Mounted Police, rural,61766,Crime severity index,v66461082,48.1,0
+2013,Fort Macleod, Alberta, Royal Canadian Mounted Police, municipal,48817,Crime severity index,v65813009,568.9,..
+2013,Fort McPherson, Northwest Territories, Royal Canadian Mounted Police, rural,61731,Crime severity index,v66460926,35.1,0
+2013,Fort Providence, Northwest Territories, Royal Canadian Mounted Police, rural,61768,Crime severity index,v66461094,49.1,0
+2013,Fort Qu'appelle, Saskatchewan, Royal Canadian Mounted Police, municipal,47808,Crime severity index,v65812169,498.9,..
+2013,Fort Resolution, Northwest Territories, Royal Canadian Mounted Police, rural,61771,Crime severity index,v66461130,52.1,0
+2013,Fort Saskatchewan, Alberta, Royal Canadian Mounted Police, municipal,48800,Crime severity index,v65812973,565.9,91.35
+2013,Fort Simpson, Northwest Territories, Royal Canadian Mounted Police, rural,61772,Crime severity index,v66461142,53.1,367.46
+2013,Fort Smith, Northwest Territories, Royal Canadian Mounted Police, rural,61764,Crime severity index,v66461058,46.1,266.21
+2013,Fort St John, British Columbia, Royal Canadian Mounted Police, municipal,59838,Crime severity index,v65814135,662.9,134.95
+2013,Fox Creek, Alberta, Royal Canadian Mounted Police, municipal,48863,Crime severity index,v65813141,579.9,..
+2013,Fredericton, New Brunswick,, municipal,13007,Crime severity index,v65806673,40.9,62.09
+2013,Frontenac (South Frontenac), Ontario, Ontario Provincial Police, municipal,35047,Crime severity index,v65809469,273.9,30.87
+2013,Gam�ti, Northwest Territories, Royal Canadian Mounted Police, rural,61002,Crime severity index,v66460734,19.1,0
+2013,Gananoque, Ontario,, municipal,35114,Crime severity index,v65810021,319.9,59.54
+2013,Gatineau, Quebec,, municipal,24205,Crime severity index,v65807981,149.9,..
+2013,Gatineau, Quebec,, municipal,24216,Crime severity index,v65808089,158.9,59.54
+2013,Gesgapegiag Ameridian, Quebec,, municipal,24122,Crime severity index,v65807417,102.9,..
+2013,Gillam, Manitoba, Royal Canadian Mounted Police, municipal,46761,Crime severity index,v65811689,458.9,155.18
+2013,Gimli, Manitoba, Royal Canadian Mounted Police, municipal,46791,Crime severity index,v65811785,466.9,..
+2013,Gimli, Manitoba, Royal Canadian Mounted Police, municipal,46041,Crime severity index,v65811521,444.9,103.14
+2013,Gjoa Haven, Northwest Territories, Royal Canadian Mounted Police, rural,61790,Crime severity index,v66461286,65.1,..
+2013,Gjoa Haven, Nunavut, Royal Canadian Mounted Police, rural,62009,Crime severity index,v66461424,76.1,98.26
+2013,Granby, Quebec,, municipal,24102,Crime severity index,v65807273,90.9,54.39
+2013,Granby Canton, Quebec,, municipal,24095,Crime severity index,v65807249,88.9,..
+2013,Grand Falls, New Brunswick,, municipal,13012,Crime severity index,v65806697,42.9,76.61
+2013,Grand-m�re, Quebec,, municipal,24101,Crime severity index,v65807261,89.9,..
+2013,Grande Cache, Alberta, Royal Canadian Mounted Police, municipal,48794,Crime severity index,v65812901,559.9,..
+2013,Grande Prairie, Alberta, Royal Canadian Mounted Police, municipal,48846,Crime severity index,v65813057,572.9,148.67
+2013,Greater Sudbury, Ontario,, municipal,35290,Crime severity index,v65810981,399.9,66.92
+2013,Greenfield Park, Quebec,, municipal,24103,Crime severity index,v65807285,91.9,..
+2013,Grenville County (Kemptville/Merrickville), Ontario, Ontario Provincial Police, municipal,35045,Crime severity index,v65809445,271.9,24.27
+2013,Grenville County (North Grenville), Ontario, Ontario Provincial Police, municipal,35494,Crime severity index,v65811377,432.9,33.86
+2013,Grenville County (Prescott), Ontario, Ontario Provincial Police, municipal,35164,Crime severity index,v65810441,354.9,94.75
+2013,Grenville County (Prescott/Augusta), Ontario, Ontario Provincial Police, municipal,35044,Crime severity index,v65809433,270.9,28.36
+2013,Grey County (Chatsworth), Ontario, Ontario Provincial Police, municipal,35121,Crime severity index,v65810081,324.9,28.74
+2013,Grey County (Georgian Bluffs), Ontario, Ontario Provincial Police, municipal,35138,Crime severity index,v65810201,334.9,17.94
+2013,Grimshaw, Alberta, Royal Canadian Mounted Police, municipal,48841,Crime severity index,v65813045,571.9,..
+2013,Grise Fiord, Nunavut, Royal Canadian Mounted Police, rural,62017,Crime severity index,v66461520,84.1,0
+2013,Grise Fiord, Northwest Territories, Royal Canadian Mounted Police, rural,61703,Crime severity index,v66460794,24.1,..
+2013,Guelph, Ontario,, municipal,35123,Crime severity index,v65810105,326.9,43.01
+2013,Haines Junction, Yukon, Royal Canadian Mounted Police, rural,60703,Crime severity index,v66460560,5.1,0
+2013,Haldimand County, Ontario, Ontario Provincial Police, municipal,35142,Crime severity index,v65810249,338.9,50.86
+2013,Halifax, Nova Scotia,, municipal,12020,Crime severity index,v65806373,15.9,..
+2013,Hall Beach, Nunavut, Royal Canadian Mounted Police, rural,62004,Crime severity index,v66461364,71.1,0
+2013,Hall Beach, Northwest Territories, Royal Canadian Mounted Police, rural,61788,Crime severity index,v66461262,63.1,..
+2013,Halton Region (Oakville/Burlington), Ontario,, municipal,35048,Crime severity index,v65809481,274.9,25.54
+2013,Hamilton, Ontario,, municipal,35125,Crime severity index,v65810117,327.9,64.75
+2013,Hampton, New Brunswick, Royal Canadian Mounted Police, municipal,13855,Crime severity index,v65806913,60.9,31.29
+2013,Hanna, Alberta, Royal Canadian Mounted Police, municipal,48714,Crime severity index,v65812685,541.9,..
+2013,Hanover, Ontario,, municipal,35005,Crime severity index,v65809013,235.9,62.39
+2013,Hantsport, Nova Scotia,, municipal,12021,Crime severity index,v65806385,16.9,..
+2013,Harriston, Ontario,, municipal,35127,Crime severity index,v65961822,714.9,..
+2013,Hawkesbury, Ontario, Ontario Provincial Police, municipal,35049,Crime severity index,v65809493,275.9,92.32
+2013,Hay River, Northwest Territories, Royal Canadian Mounted Police, rural,61765,Crime severity index,v66461070,47.1,258.33
+2013,Hearst, Ontario, Ontario Provincial Police, municipal,35117,Crime severity index,v65810057,322.9,56.03
+2013,High Level, Alberta, Royal Canadian Mounted Police, municipal,48859,Crime severity index,v65813117,577.9,..
+2013,High Prairie, Alberta, Royal Canadian Mounted Police, municipal,48850,Crime severity index,v65813069,573.9,..
+2013,High River, Alberta, Royal Canadian Mounted Police, municipal,48720,Crime severity index,v65812709,543.9,54.87
+2013,Highway Safety Division (Highway 407), Ontario, Ontario Provincial Police, municipal,35171,Crime severity index,v65810513,360.9,..
+2013,Hinton, Alberta, Royal Canadian Mounted Police, municipal,48930,Crime severity index,v65813405,601.9,106.40
+2013,Hobbema, Alberta,, municipal,48095,Crime severity index,v65961666,701.9,..
+2013,Hobbema, Alberta,, municipal,48090,Crime severity index,v65812625,536.9,..
+2013,Hope, British Columbia, Royal Canadian Mounted Police, municipal,59749,Crime severity index,v65813907,643.9,128.08
+2013,Hudson, Quebec,, municipal,24107,Crime severity index,v65807297,92.9,..
+2013,Hudson Bay, Saskatchewan, Royal Canadian Mounted Police, municipal,47751,Crime severity index,v65812121,494.9,..
+2013,Hull, Quebec,, municipal,24108,Crime severity index,v65807309,93.9,..
+2013,Humboldt, Saskatchewan, Royal Canadian Mounted Police, municipal,47848,Crime severity index,v65812217,502.9,76.74
+2013,Huron (Goderich), Ontario, Ontario Provincial Police, municipal,35493,Crime severity index,v65811365,431.9,50.14
+2013,Huron East, Ontario, Ontario Provincial Police, municipal,35480,Crime severity index,v65811269,423.9,..
+2013,Igloolik, Northwest Territories, Royal Canadian Mounted Police, rural,61704,Crime severity index,v66460806,25.1,..
+2013,Igloolik, Nunavut, Royal Canadian Mounted Police, rural,62021,Crime severity index,v66461568,88.1,228
+2013,Ignace, Ontario, Ontario Provincial Police, municipal,35028,Crime severity index,v65809253,255.9,119.49
+2013,Indian Head, Saskatchewan, Royal Canadian Mounted Police, municipal,47810,Crime severity index,v65812181,499.9,..
+2013,Ingersoll, Ontario,, municipal,35141,Crime severity index,v65810237,337.9,..
+2013,Innisfail, Alberta, Royal Canadian Mounted Police, municipal,48875,Crime severity index,v65813165,581.9,104.40
+2013,Inuvik, Northwest Territories, Royal Canadian Mounted Police, rural,61733,Crime severity index,v66460950,37.1,381.52
+2013,Iqaluit, Nunavut, Royal Canadian Mounted Police, rural,62001,Crime severity index,v66461328,68.1,416.64
+2013,Iqaluit, Northwest Territories, Royal Canadian Mounted Police, rural,61702,Crime severity index,v66460782,23.1,..
+2013,Iqaluit, Northwest Territories, Royal Canadian Mounted Police, rural,61783,Crime severity index,v66461238,61.1,..
+2013,Jaffray Melick, Ontario, Ontario Provincial Police, municipal,35029,Crime severity index,v65809265,256.9,..
+2013,Joliette, Quebec,, municipal,24116,Crime severity index,v65807369,98.9,..
+2013,Jonqui�re, Quebec,, municipal,24117,Crime severity index,v65807381,99.9,..
+2013,Kahnawake First Nations, Quebec,, municipal,24255,Crime severity index,v65808317,177.9,46.20
+2013,Kamloops, British Columbia, Royal Canadian Mounted Police, municipal,59763,Crime severity index,v65813919,644.9,112.24
+2013,Kamsack, Saskatchewan, Royal Canadian Mounted Police, municipal,47919,Crime severity index,v65812361,514.9,..
+2013,Kanesatake, Quebec,, municipal,24198,Crime severity index,v65807921,144.9,..
+2013,Kapuskasing, Ontario, Ontario Provincial Police, municipal,35476,Crime severity index,v65811233,420.9,66.71
+2013,Kativik Region, Quebec,, municipal,24379,Crime severity index,v65808941,229.9,75.00
+2013,Kawartha Lakes, Ontario,, municipal,35157,Crime severity index,v65810369,348.9,85.04
+2013,Keewatin, Ontario, Ontario Provincial Police, municipal,35030,Crime severity index,v65809277,257.9,..
+2013,Kelowna, British Columbia, Royal Canadian Mounted Police, municipal,59765,Crime severity index,v65813931,645.9,104.15
+2013,Kennebecasis Regional Police Force, New Brunswick,, municipal,13024,Crime severity index,v65806721,44.9,25.28
+2013,Kenora, Ontario, Ontario Provincial Police, municipal,35150,Crime severity index,v65810309,343.9,76.14
+2013,Kenora, Ontario,, municipal,35147,Crime severity index,v65810285,341.9,..
+2013,Kensington, Prince Edward Island,, municipal,11009,Crime severity index,v65806265,6.9,60.39
+2013,Kent, British Columbia, Royal Canadian Mounted Police, municipal,59029,Crime severity index,v65813657,622.9,59.76
+2013,Kentville, Nova Scotia,, municipal,12023,Crime severity index,v65806397,17.9,89.48
+2013,Killarney, Manitoba, Royal Canadian Mounted Police, municipal,46730,Crime severity index,v65811605,451.9,52.31
+2013,Kimberley, British Columbia, Royal Canadian Mounted Police, municipal,59801,Crime severity index,v65814003,651.9,67.38
+2013,Kimmirut, Nunavut, Royal Canadian Mounted Police, rural,62006,Crime severity index,v66461388,73.1,0
+2013,Kimmirut, Northwest Territories, Royal Canadian Mounted Police, rural,61705,Crime severity index,v66460818,26.1,..
+2013,Kindersley, Saskatchewan, Royal Canadian Mounted Police, municipal,47852,Crime severity index,v65812229,503.9,..
+2013,Kingston, Ontario,, municipal,35151,Crime severity index,v65810321,344.9,61.29
+2013,Kingsville, Ontario, Ontario Provincial Police, municipal,35508,Crime severity index,v65811425,436.9,23.27
+2013,Kirkland Lake, Ontario, Ontario Provincial Police, municipal,35477,Crime severity index,v65811245,421.9,73.84
+2013,Kitigan Zibi Anishinabeg, Quebec,, municipal,24159,Crime severity index,v65807693,125.9,78.17
+2013,Kitimat, British Columbia, Royal Canadian Mounted Police, municipal,59850,Crime severity index,v65814159,664.9,90.60
+2013,Klemtu, British Columbia,, municipal,59006,Crime severity index,v65813477,607.9,..
+2013,Kugaaruk, Nunavut, Royal Canadian Mounted Police, rural,62011,Crime severity index,v66461448,78.1,0
+2013,Kugluktuk, Northwest Territories, Royal Canadian Mounted Police, rural,61762,Crime severity index,v66461034,44.1,..
+2013,Kugluktuk, Nunavut, Royal Canadian Mounted Police, rural,62008,Crime severity index,v66461412,75.1,417.9
+2013,L'Ancienne-Lorette, Quebec,, municipal,24194,Crime severity index,v65961762,709.9,..
+2013,L'Assomption, Quebec,, municipal,24135,Crime severity index,v65807489,108.9,52.39
+2013,L'�le-perrot, Quebec,, municipal,24113,Crime severity index,v65807333,95.9,..
+2013,La Baie, Quebec,, municipal,24212,Crime severity index,v65808041,154.9,..
+2013,La Malbaie, Quebec,, municipal,24128,Crime severity index,v65807465,106.9,..
+2013,La Plaine, Quebec,, municipal,24136,Crime severity index,v65807501,109.9,..
+2013,La Pocati�re, Quebec,, municipal,24130,Crime severity index,v65961486,686.9,..
+2013,La Prairie, Quebec,, municipal,24131,Crime severity index,v65807477,107.9,..
+2013,La Romaine, Quebec,, municipal,24114,Crime severity index,v65807345,96.9,..
+2013,La Ronge, Saskatchewan, Royal Canadian Mounted Police, municipal,47939,Crime severity index,v65812421,519.9,..
+2013,La Tuque, Quebec,, municipal,24137,Crime severity index,v65807513,110.9,..
+2013,LaSalle, Ontario,, municipal,35388,Crime severity index,v65811113,410.9,19.69
+2013,Labrador, Newfoundland and Labrador, Royal Newfoundland Constabulary, municipal,10501,Crime severity index,v65806217,2.9,47.56
+2013,Lac Brome, Quebec,, municipal,24120,Crime severity index,v65807405,101.9,..
+2013,Lac La Biche, Alberta, Royal Canadian Mounted Police, municipal,48764,Crime severity index,v65812781,549.9,..
+2013,Lac Seul, Ontario,, municipal,35153,Crime severity index,v65810333,345.9,..
+2013,Lac Simon, Quebec,, municipal,24167,Crime severity index,v65807753,130.9,338.33
+2013,Lac-m�gantic, Quebec,, municipal,24166,Crime severity index,v65807741,129.9,..
+2013,Lac-rapide, Quebec,, municipal,24260,Crime severity index,v65808377,182.9,..
+2013,Lac-rapide, Quebec,, municipal,24274,Crime severity index,v65808497,192.9,..
+2013,Lachenaie, Quebec,, municipal,24109,Crime severity index,v65807321,94.9,..
+2013,Lachute, Quebec,, municipal,24124,Crime severity index,v65807429,103.9,..
+2013,Lacombe, Alberta,, municipal,48052,Crime severity index,v65812577,532.9,66.44
+2013,Ladysmith, British Columbia,, municipal,59003,Crime severity index,v65961678,702.9,..
+2013,Ladysmith, British Columbia, Royal Canadian Mounted Police, municipal,59719,Crime severity index,v65813799,634.9,55.61
+2013,Lake Country, British Columbia, Royal Canadian Mounted Police, municipal,59748,Crime severity index,v65813895,642.9,75.82
+2013,Lake Cowichan, British Columbia,, municipal,59007,Crime severity index,v65813489,608.9,..
+2013,Lakeshore (Belle River), Ontario, Ontario Provincial Police, municipal,35502,Crime severity index,v65811401,434.9,22.00
+2013,Lakeshore Regional, Alberta,, municipal,48017,Crime severity index,v65812541,529.9,317.92
+2013,Lambton (Point Edward), Ontario, Ontario Provincial Police, municipal,35015,Crime severity index,v65809109,243.9,80.83
+2013,Lambton (St. Clair/Lambton Shores), Ontario, Ontario Provincial Police, municipal,35090,Crime severity index,v65809805,301.9,32.32
+2013,Lanark County (Beckwith), Ontario, Ontario Provincial Police, municipal,35043,Crime severity index,v65809421,269.9,18.64
+2013,Lanark County (Lanark Highlands), Ontario, Ontario Provincial Police, municipal,35075,Crime severity index,v65809673,290.9,26.25
+2013,Lanark County (Mississippi Mills), Ontario, Ontario Provincial Police, municipal,35036,Crime severity index,v65809349,263.9,25.23
+2013,Lanark County (Montague), Ontario, Ontario Provincial Police, municipal,35037,Crime severity index,v65809361,264.9,40.56
+2013,Lanark County (Tay Valley Township), Ontario, Ontario Provincial Police, municipal,35040,Crime severity index,v65809385,266.9,28.78
+2013,Langford, British Columbia, Royal Canadian Mounted Police, municipal,59844,Crime severity index,v65814147,663.9,62.45
+2013,Langley City, British Columbia, Royal Canadian Mounted Police, municipal,59930,Crime severity index,v65814387,683.9,168.51
+2013,Langley Township, British Columbia, Royal Canadian Mounted Police, municipal,59731,Crime severity index,v65813835,637.9,87.60
+2013,Lanigan, Saskatchewan, Royal Canadian Mounted Police, municipal,47855,Crime severity index,v65812241,504.9,..
+2013,Laval, Quebec,, municipal,24141,Crime severity index,v65807561,114.9,56.80
+2013,Le Gardeur, Quebec,, municipal,24072,Crime severity index,v65807165,81.9,..
+2013,Leaf Rapids, Manitoba, Royal Canadian Mounted Police, municipal,46779,Crime severity index,v65811749,463.9,..
+2013,Lebel-sur-Qu�villon, Quebec,, municipal,24143,Crime severity index,v65961750,708.9,..
+2013,Leduc, Alberta, Royal Canadian Mounted Police, municipal,48798,Crime severity index,v65812949,563.9,94.73
+2013,Lery, Quebec,, municipal,24149,Crime severity index,v65961498,687.9,..
+2013,Lethbridge Region, Alberta,, municipal,48054,Crime severity index,v65812589,533.9,77.02
+2013,Listowel, Ontario,, municipal,35158,Crime severity index,v65961834,715.9,..
+2013,Listuguj, Quebec,, municipal,24214,Crime severity index,v65808065,156.9,164.14
+2013,Lloydminster, Saskatchewan, Royal Canadian Mounted Police, municipal,47714,Crime severity index,v65812049,488.9,..
+2013,Lloydminster, Alberta, Royal Canadian Mounted Police, municipal,48007,Crime severity index,v65812493,525.9,143.09
+2013,London, Ontario,, municipal,35162,Crime severity index,v65810417,352.9,76.16
+2013,Longueuil, Quebec,, municipal,24231,Crime severity index,v65808173,165.9,65.22
+2013,Longueuil, Quebec,, municipal,24152,Crime severity index,v65807645,121.9,..
+2013,Loretteville, Quebec,, municipal,24153,Crime severity index,v65807657,122.9,..
+2013,Lorraine, Quebec,, municipal,24140,Crime severity index,v65807549,113.9,..
+2013,Loyalist, Ontario, Ontario Provincial Police, municipal,35099,Crime severity index,v65809877,307.9,30.19
+2013,Lunenburg, Nova Scotia,, municipal,12029,Crime severity index,v65806409,18.9,..
+2013,Luseland, Saskatchewan,, municipal,47098,Crime severity index,v65812013,485.9,..
+2013,Lutsel K'e, Northwest Territories, Royal Canadian Mounted Police, rural,61776,Crime severity index,v66461190,57.1,0
+2013,L�vis, Quebec,, municipal,24219,Crime severity index,v65808101,159.9,35.31
+2013,L�vis, Quebec,, municipal,24148,Crime severity index,v65807609,118.9,..
+2013,Mackenzie, British Columbia, Royal Canadian Mounted Police, municipal,59929,Crime severity index,v65814375,682.9,..
+2013,Macklin, Saskatchewan,, municipal,47099,Crime severity index,v65961894,720.9,..
+2013,Magog, Quebec,, municipal,24157,Crime severity index,v65807681,124.9,58.13
+2013,Manawan, Quebec,, municipal,24119,Crime severity index,v65807393,100.9,55.95
+2013,Maple Creek, Saskatchewan, Royal Canadian Mounted Police, municipal,47895,Crime severity index,v65812301,509.9,..
+2013,Maple Ridge, British Columbia, Royal Canadian Mounted Police, municipal,59727,Crime severity index,v65813823,636.9,78.87
+2013,Marathon, Ontario, Ontario Provincial Police, municipal,35471,Crime severity index,v65811221,419.9,42.73
+2013,Marieville, Quebec,, municipal,24180,Crime severity index,v65807849,138.9,..
+2013,Markdale (Grey Highlands), Ontario, Ontario Provincial Police, municipal,35100,Crime severity index,v65809889,308.9,27.15
+2013,Martensville, Saskatchewan, Royal Canadian Mounted Police, municipal,47004,Crime severity index,v65811881,474.9,38.88
+2013,Mascouche, Quebec,, municipal,24165,Crime severity index,v65807729,128.9,56.38
+2013,Mashteuiatsh First Nations, Quebec,, municipal,24147,Crime severity index,v65807597,117.9,108.53
+2013,Matane, Quebec,, municipal,24164,Crime severity index,v65807717,127.9,..
+2013,Mattawa, Ontario, Ontario Provincial Police, municipal,35063,Crime severity index,v65809601,284.9,65.73
+2013,Mayo, Yukon, Royal Canadian Mounted Police, rural,60704,Crime severity index,v66460572,6.1,0
+2013,McAdam, New Brunswick, Royal Canadian Mounted Police, municipal,13769,Crime severity index,v65806889,58.9,54.77
+2013,Meadow Lake, Saskatchewan, Royal Canadian Mounted Police, municipal,47718,Crime severity index,v65812061,489.9,354.33
+2013,Meaford, Ontario, Ontario Provincial Police, municipal,35137,Crime severity index,v65810189,333.9,..
+2013,Meaford-thornbury, Ontario,, municipal,35001,Crime severity index,v65808989,233.9,..
+2013,Medicine Hat, Alberta,, municipal,48062,Crime severity index,v65812601,534.9,65.30
+2013,Melfort, Saskatchewan, Royal Canadian Mounted Police, municipal,47757,Crime severity index,v65812133,495.9,111.12
+2013,Melville, Saskatchewan, Royal Canadian Mounted Police, municipal,47923,Crime severity index,v65812373,515.9,..
+2013,Mercier, Quebec,, municipal,24170,Crime severity index,v65807765,131.9,..
+2013,Merritt, British Columbia, Royal Canadian Mounted Police, municipal,59783,Crime severity index,v65813967,648.9,160.30
+2013,Middlesex (Middlesex), Ontario, Ontario Provincial Police, municipal,35183,Crime severity index,v65810609,368.9,26.82
+2013,Middlesex (Thames Centre), Ontario, Ontario Provincial Police, municipal,35201,Crime severity index,v65810717,377.9,28.54
+2013,Middleton, Nova Scotia,, municipal,12031,Crime severity index,v65961474,685.9,..
+2013,Midland, Ontario,, municipal,35177,Crime severity index,v65810561,364.9,59.49
+2013,Mingan, Quebec,, municipal,24125,Crime severity index,v65807441,104.9,..
+2013,Minnedosa, Manitoba, Royal Canadian Mounted Police, municipal,46735,Crime severity index,v65811629,453.9,91.54
+2013,Mirabel, Quebec,, municipal,24273,Crime severity index,v65808485,191.9,39.53
+2013,Miramichi, New Brunswick,, municipal,13015,Crime severity index,v65806709,43.9,69.35
+2013,Mission, British Columbia, Royal Canadian Mounted Police, municipal,59734,Crime severity index,v65813847,638.9,109.51
+2013,Mistissini, Quebec,, municipal,24374,Crime severity index,v65808881,224.9,..
+2013,Mont-Tremblant, Quebec,, municipal,24283,Crime severity index,v65808521,194.9,110.70
+2013,Mont-joli, Quebec,, municipal,24171,Crime severity index,v65807777,132.9,..
+2013,Mont-st-hilaire, Quebec,, municipal,24187,Crime severity index,v65807873,140.9,..
+2013,Montague, Prince Edward Island, Royal Canadian Mounted Police, municipal,11709,Crime severity index,v65806289,8.9,..
+2013,Montcalm, Quebec,, municipal,24188,Crime severity index,v65807885,141.9,..
+2013,Montmagny, Quebec,, municipal,24173,Crime severity index,v65807789,133.9,..
+2013,Montr�al, Quebec,, municipal,24175,Crime severity index,v65807801,134.9,78.69
+2013,Moore, Ontario, Ontario Provincial Police, municipal,35080,Crime severity index,v65961798,712.9,..
+2013,Moose Jaw, Saskatchewan,, municipal,47045,Crime severity index,v65811917,477.9,97.32
+2013,Moosomin, Saskatchewan, Royal Canadian Mounted Police, municipal,47817,Crime severity index,v65812193,500.9,..
+2013,Morden, Manitoba,, municipal,46033,Crime severity index,v65811497,442.9,67.13
+2013,Morin Heights, Quebec,, municipal,24045,Crime severity index,v65807021,69.9,..
+2013,Morinville, Alberta, Royal Canadian Mounted Police, municipal,48897,Crime severity index,v65813285,591.9,57.71
+2013,Mount Forest (Southgate), Ontario, Ontario Provincial Police, municipal,35103,Crime severity index,v65809913,310.9,30.97
+2013,Municipality of Trent Lakes, Ontario, Ontario Provincial Police, municipal,35020,Crime severity index,v65809157,247.9,59.12
+2013,M�tabetchouan, Quebec,, municipal,24362,Crime severity index,v65961534,690.9,..
+2013,Nanaimo, British Columbia, Royal Canadian Mounted Police, municipal,59904,Crime severity index,v65814291,675.9,105.96
+2013,Nanisivik, Northwest Territories, Royal Canadian Mounted Police, rural,61777,Crime severity index,v66461202,58.1,..
+2013,Napanee (Deseronto), Ontario, Ontario Provincial Police, rural,35122,Crime severity index,v65810093,325.9,..
+2013,Napanee (Greater Napanee), Ontario, Ontario Provincial Police, municipal,35097,Crime severity index,v65809853,305.9,68.88
+2013,Napanee (Stone Mills), Ontario, Ontario Provincial Police, municipal,35035,Crime severity index,v65809337,262.9,30.97
+2013,Naskapi (Kawawachikamach), Quebec,, municipal,24381,Crime severity index,v65808953,230.9,..
+2013,Natasquan, Quebec,, municipal,24126,Crime severity index,v65807453,105.9,..
+2013,Neepawa, Manitoba, Royal Canadian Mounted Police, municipal,46733,Crime severity index,v65811617,452.9,93.50
+2013,Neguac, New Brunswick, Royal Canadian Mounted Police, municipal,13707,Crime severity index,v65806841,54.9,..
+2013,Nelson, British Columbia,, municipal,59011,Crime severity index,v65813513,610.9,107.64
+2013,Nemaska, Quebec,, municipal,24211,Crime severity index,v65808029,153.9,..
+2013,New Glasgow, Nova Scotia,, municipal,12058,Crime severity index,v65806493,25.9,88.53
+2013,New Westminster, British Columbia,, municipal,59012,Crime severity index,v65813525,611.9,105.97
+2013,Niagara Region (St. Catharines), Ontario,, municipal,35196,Crime severity index,v65810693,375.9,57.26
+2013,Nicolet, Quebec,, municipal,24191,Crime severity index,v65807897,142.9,..
+2013,Nipawin, Saskatchewan, Royal Canadian Mounted Police, municipal,47759,Crime severity index,v65812145,496.9,..
+2013,Nipigon (Red Rock), Ontario, Ontario Provincial Police, municipal,35112,Crime severity index,v65809997,317.9,..
+2013,Nishnawbe-Aski Nation, Ontario,, municipal,35011,Crime severity index,v65809073,240.9,287.44
+2013,Norfolk County, Ontario, Ontario Provincial Police, municipal,35070,Crime severity index,v65809637,287.9,41.58
+2013,Norman Wells, Northwest Territories, Royal Canadian Mounted Police, rural,61735,Crime severity index,v66460974,39.1,0
+2013,Normandin, Quebec,, municipal,24363,Crime severity index,v65808845,221.9,..
+2013,North Battleford, Saskatchewan, Royal Canadian Mounted Police, municipal,47721,Crime severity index,v65812073,490.9,323.88
+2013,North Bay, Ontario,, municipal,35197,Crime severity index,v65810705,376.9,60.78
+2013,North Bay (Bonfield), Ontario, Ontario Provincial Police, municipal,35116,Crime severity index,v65810045,321.9,35.99
+2013,North Bay (East Ferris), Ontario, Ontario Provincial Police, municipal,35149,Crime severity index,v65810297,342.9,13.71
+2013,North Cowichan, British Columbia, Royal Canadian Mounted Police, municipal,59906,Crime severity index,v65814303,676.9,75.97
+2013,North Parry Sound group of two, Ontario, Ontario Provincial Police, municipal,35067,Crime severity index,v65961570,693.9,..
+2013,North Peace Tribal, Alberta,, municipal,48006,Crime severity index,v65812481,524.9,181.54
+2013,North Perth, Ontario, Ontario Provincial Police, municipal,35069,Crime severity index,v65809625,286.9,54.99
+2013,North Saanich, British Columbia, Royal Canadian Mounted Police, municipal,59815,Crime severity index,v65814051,655.9,25.22
+2013,North Vancouver City, British Columbia, Royal Canadian Mounted Police, municipal,59706,Crime severity index,v65813727,628.9,72.64
+2013,North Vancouver District, British Columbia, Royal Canadian Mounted Police, municipal,59707,Crime severity index,v65813739,629.9,41.57
+2013,Northern Rockies Regional municipality, British Columbia, Royal Canadian Mounted Police, municipal,59033,Crime severity index,v65813669,623.9,..
+2013,Northumberland (Alnwick/Haldimand), Ontario, Ontario Provincial Police, municipal,35091,Crime severity index,v65809817,302.9,23.32
+2013,Northumberland (Brighton), Ontario, Ontario Provincial Police, municipal,35016,Crime severity index,v65809121,244.9,34.79
+2013,Northumberland (Cramahe), Ontario, Ontario Provincial Police, municipal,35113,Crime severity index,v65810009,318.9,38.62
+2013,Northumberland (Hamilton), Ontario, Ontario Provincial Police, municipal,35170,Crime severity index,v65810501,359.9,24.72
+2013,Northumberland (Hope), Ontario, Ontario Provincial Police, municipal,35093,Crime severity index,v65809829,303.9,29.58
+2013,Northumberland (Trent Hills), Ontario, Ontario Provincial Police, municipal,35110,Crime severity index,v65809973,315.9,47.12
+2013,Nottawasaga (New Tecumseth/Essa/Adjala Tosorontio), Ontario, Ontario Provincial Police, municipal,35470,Crime severity index,v65811209,418.9,35.28
+2013,Oak Bay, British Columbia,, municipal,59015,Crime severity index,v65813537,612.9,31.01
+2013,Obedjiwan First Nations, Quebec,, municipal,24178,Crime severity index,v65807825,136.9,162.29
+2013,Odanak / W�linak, Quebec,, municipal,24144,Crime severity index,v65807573,115.9,..
+2013,Okotoks, Alberta, Royal Canadian Mounted Police, municipal,48906,Crime severity index,v65813369,598.9,45.77
+2013,Old Crow, Yukon, Royal Canadian Mounted Police, rural,60705,Crime severity index,v66460584,7.1,0
+2013,Olds, Alberta, Royal Canadian Mounted Police, municipal,48878,Crime severity index,v65813177,582.9,109.17
+2013,Orangeville, Ontario,, municipal,35204,Crime severity index,v65810729,378.9,32.85
+2013,Orillia, Ontario, Ontario Provincial Police, municipal,35465,Crime severity index,v65811185,416.9,69.13
+2013,Oromocto, New Brunswick, Royal Canadian Mounted Police, municipal,13776,Crime severity index,v65806901,59.9,43.26
+2013,Ottawa, Ontario,, municipal,35010,Crime severity index,v65809061,239.9,52.68
+2013,Ottawa, Ontario,, municipal,35207,Crime severity index,v65961846,716.9,..
+2013,Otterburn Park, Quebec,, municipal,24046,Crime severity index,v65807033,70.9,..
+2013,Ouj�-bougoumou, Quebec,, municipal,24208,Crime severity index,v65808005,151.9,..
+2013,Outlook, Saskatchewan, Royal Canadian Mounted Police, municipal,47856,Crime severity index,v65812253,505.9,..
+2013,Owen Sound, Ontario,, municipal,35212,Crime severity index,v65810765,381.9,56.63
+2013,Oxford (Ingersoll), Ontario, Ontario Provincial Police, municipal,35139,Crime severity index,v65810213,335.9,49.06
+2013,Oxford (Norwich), Ontario, Ontario Provincial Police, municipal,35187,Crime severity index,v65810633,370.9,42.60
+2013,Oxford (Tillsonburg), Ontario, Ontario Provincial Police, municipal,35106,Crime severity index,v65809937,312.9,40.14
+2013,Oxford County, Nova Scotia, Royal Canadian Mounted Police, municipal,12833,Crime severity index,v65806601,34.9,..
+2013,Pakua Shipi, Quebec,, municipal,24179,Crime severity index,v65807837,137.9,..
+2013,Palmerston, Ontario,, municipal,35213,Crime severity index,v65961858,717.9,..
+2013,Pangnirtung, Nunavut, Royal Canadian Mounted Police, rural,62020,Crime severity index,v66461556,87.1,216
+2013,Pangnirtung, Northwest Territories, Royal Canadian Mounted Police, rural,61706,Crime severity index,v66460830,27.1,..
+2013,Paris, Ontario,, municipal,35214,Crime severity index,v65961582,694.9,..
+2013,Parksville, British Columbia, Royal Canadian Mounted Police, municipal,59817,Crime severity index,v65814075,657.9,76.20
+2013,Parrsboro, Nova Scotia, Royal Canadian Mounted Police, municipal,12712,Crime severity index,v65806541,29.9,143.48
+2013,Paulatuk, Northwest Territories, Royal Canadian Mounted Police, rural,61712,Crime severity index,v66460890,32.1,0
+2013,Peace River, Alberta, Royal Canadian Mounted Police, municipal,48854,Crime severity index,v65813093,575.9,115.54
+2013,Peachland, British Columbia, Royal Canadian Mounted Police, municipal,59037,Crime severity index,v80750934,724.9,40.51
+2013,Peel Region (Mississauga/Brampton), Ontario,, municipal,35041,Crime severity index,v65809397,267.9,42.08
+2013,Pelly Crossing, Yukon, Royal Canadian Mounted Police, rural,60718,Crime severity index,v66460692,16.1,0
+2013,Pembroke, Ontario,, municipal,35217,Crime severity index,v65810777,382.9,61.34
+2013,Penticton, British Columbia, Royal Canadian Mounted Police, municipal,59737,Crime severity index,v65813859,639.9,109.94
+2013,Perth, Ontario,, municipal,35221,Crime severity index,v65810789,383.9,42.45
+2013,Perth County (St. Marys), Ontario, Ontario Provincial Police, municipal,35487,Crime severity index,v65811317,427.9,32.86
+2013,Perth County (West Perth), Ontario, Ontario Provincial Police, municipal,35486,Crime severity index,v65811305,426.9,73.41
+2013,Pessamit, Quebec,, municipal,24259,Crime severity index,v65808365,181.9,112.67
+2013,Peterborough County (Asphodel-Norwood), Ontario, Ontario Provincial Police, municipal,35018,Crime severity index,v65809133,245.9,41.31
+2013,Peterborough County (Cavan/Millbrook/N. Monaghan), Ontario, Ontario Provincial Police, municipal,35024,Crime severity index,v65809205,251.9,29.61
+2013,Peterborough County (Douro/Dummer), Ontario, Ontario Provincial Police, municipal,35019,Crime severity index,v65809145,246.9,15.39
+2013,Peterborough County (Havelock/Belmont/Methuen), Ontario, Ontario Provincial Police, municipal,35022,Crime severity index,v65809181,249.9,53.58
+2013,Peterborough County (Otonabee/S. Monaghan), Ontario, Ontario Provincial Police, municipal,35025,Crime severity index,v65809217,252.9,37.58
+2013,Peterborough-Lakefield, Ontario,, municipal,35222,Crime severity index,v65810801,384.9,66.22
+2013,Petrolia, Ontario, Ontario Provincial Police, municipal,35485,Crime severity index,v65961882,719.9,..
+2013,Pictou, Nova Scotia, Royal Canadian Mounted Police, municipal,12776,Crime severity index,v65806577,32.9,97.75
+2013,Pikogan First Nations, Quebec,, municipal,24195,Crime severity index,v65807909,143.9,..
+2013,Pinawa, Manitoba, Royal Canadian Mounted Police, municipal,46800,Crime severity index,v65811797,467.9,31.33
+2013,Pincher Creek, Alberta, Royal Canadian Mounted Police, municipal,48825,Crime severity index,v65813021,569.9,..
+2013,Pincourt, Quebec,, municipal,24202,Crime severity index,v65807957,147.9,..
+2013,Pitt Meadows, British Columbia, Royal Canadian Mounted Police, municipal,59818,Crime severity index,v65814087,658.9,53.84
+2013,Plessisville, Quebec,, municipal,24203,Crime severity index,v65807969,148.9,..
+2013,Point Edward, Ontario,, municipal,35226,Crime severity index,v65961870,718.9,..
+2013,Pond Inlet, Northwest Territories, Royal Canadian Mounted Police, rural,61707,Crime severity index,v66460842,28.1,..
+2013,Pond Inlet, Nunavut, Royal Canadian Mounted Police, rural,62016,Crime severity index,v66461508,83.1,278.33
+2013,Ponoka, Alberta, Royal Canadian Mounted Police, municipal,48893,Crime severity index,v65813249,588.9,115.60
+2013,Port Alberni, British Columbia, Royal Canadian Mounted Police, municipal,59908,Crime severity index,v65814315,677.9,134.76
+2013,Port Coquitlam, British Columbia, Royal Canadian Mounted Police, municipal,59708,Crime severity index,v65813751,630.9,68.47
+2013,Port Hardy, British Columbia, Royal Canadian Mounted Police, municipal,59813,Crime severity index,v65814027,653.9,..
+2013,Port Hawkesbury, Nova Scotia, Royal Canadian Mounted Police, municipal,12821,Crime severity index,v65806589,33.9,..
+2013,Port Hope, Ontario,, municipal,35235,Crime severity index,v65810813,385.9,36.17
+2013,Port Moody, British Columbia,, municipal,59016,Crime severity index,v65813549,613.9,37.09
+2013,Port-cartier, Quebec,, municipal,24209,Crime severity index,v65808017,152.9,..
+2013,Portage La Prairie, Manitoba, Royal Canadian Mounted Police, municipal,46801,Crime severity index,v65811809,468.9,177.52
+2013,Powassan, Ontario, Ontario Provincial Police, municipal,35068,Crime severity index,v65809613,285.9,38.32
+2013,Powell River, British Columbia, Royal Canadian Mounted Police, municipal,59873,Crime severity index,v65814243,671.9,57.75
+2013,Prescott, Ontario,, municipal,35243,Crime severity index,v65810837,387.9,..
+2013,Prince Albert, Saskatchewan,, municipal,47055,Crime severity index,v65811929,478.9,192.72
+2013,Prince Edward, Ontario, Ontario Provincial Police, municipal,35077,Crime severity index,v65809697,292.9,41.12
+2013,Prince George, British Columbia, Royal Canadian Mounted Police, municipal,59710,Crime severity index,v65813763,631.9,137.04
+2013,Prince Rupert, British Columbia, Royal Canadian Mounted Police, municipal,59854,Crime severity index,v65814171,665.9,143.28
+2013,Princeville, Quebec,, municipal,24213,Crime severity index,v65808053,155.9,..
+2013,Pr�vost, Quebec,, municipal,24206,Crime severity index,v65807993,150.9,..
+2013,Qikiqtarjuaq, Northwest Territories, Royal Canadian Mounted Police, rural,61786,Crime severity index,v66461250,62.1,..
+2013,Qikiqtarjuaq, Nunavut, Royal Canadian Mounted Police, rural,62022,Crime severity index,v66461580,89.1,0
+2013,Qualicum Beach, British Columbia, Royal Canadian Mounted Police, municipal,59744,Crime severity index,v65813883,641.9,40.70
+2013,Quesnel, British Columbia, Royal Canadian Mounted Police, municipal,59837,Crime severity index,v65814123,661.9,189.38
+2013,Quinte West, Ontario, Ontario Provincial Police, municipal,35159,Crime severity index,v65810381,349.9,41.59
+2013,Qu�bec, Quebec,, municipal,24232,Crime severity index,v65961774,710.9,..
+2013,Qu�bec, Quebec,, municipal,24215,Crime severity index,v65808077,157.9,51.59
+2013,R.M. of Vanscoy No. 345, Saskatchewan,, municipal,47009,Crime severity index,v95715446,729.9,..
+2013,Rainy River District (Fort Frances), Ontario, Ontario Provincial Police, municipal,35464,Crime severity index,v65811173,415.9,64.39
+2013,Rama (Mnjikaning), Ontario,, municipal,35497,Crime severity index,v65811389,433.9,..
+2013,Rankin Inlet, Nunavut, Royal Canadian Mounted Police, rural,62012,Crime severity index,v66461460,79.1,273.61
+2013,Rankin Inlet, Northwest Territories, Royal Canadian Mounted Police, rural,61770,Crime severity index,v66461118,51.1,..
+2013,Raymond, Alberta, Royal Canadian Mounted Police, municipal,48830,Crime severity index,v65813033,570.9,..
+2013,Red Deer, Alberta, Royal Canadian Mounted Police, municipal,48882,Crime severity index,v65813189,583.9,156.79
+2013,Red Lake, Ontario, Ontario Provincial Police, municipal,35032,Crime severity index,v65809301,259.9,65.13
+2013,Red Rock, Ontario,, municipal,35414,Crime severity index,v65961618,697.9,..
+2013,Redcliff, Alberta, Royal Canadian Mounted Police, municipal,48008,Crime severity index,v65812505,526.9,45.83
+2013,Redwater, Alberta, Royal Canadian Mounted Police, municipal,48902,Crime severity index,v65813321,594.9,..
+2013,Regina, Saskatchewan,, municipal,47063,Crime severity index,v65811941,479.9,114.61
+2013,Renfrew, Ontario,, municipal,35247,Crime severity index,v65961594,695.9,..
+2013,Renfrew, Ontario, Ontario Provincial Police, municipal,35107,Crime severity index,v65809949,313.9,66.42
+2013,Repentigny, Quebec,, municipal,24221,Crime severity index,v65808113,160.9,39.72
+2013,Repulse Bay, Nunavut, Royal Canadian Mounted Police, rural,62026,Crime severity index,v66461592,90.1,50.11
+2013,Resolute Bay, Northwest Territories, Royal Canadian Mounted Police, rural,61708,Crime severity index,v66460854,29.1,..
+2013,Resolute Bay, Nunavut, Royal Canadian Mounted Police, rural,62018,Crime severity index,v66461532,85.1,0
+2013,Revelstoke, British Columbia, Royal Canadian Mounted Police, municipal,59814,Crime severity index,v65814039,654.9,72.12
+2013,Richelieu Saint-Laurent, Quebec,, municipal,24268,Crime severity index,v65808437,187.9,42.46
+2013,Richibucto, New Brunswick, Royal Canadian Mounted Police, municipal,13703,Crime severity index,v65806793,50.9,126.57
+2013,Richmond, British Columbia, Royal Canadian Mounted Police, municipal,59711,Crime severity index,v65813775,632.9,73.51
+2013,Richmond, Quebec,, municipal,24223,Crime severity index,v65808125,161.9,..
+2013,Rideau Lakes (Westport), Ontario, Ontario Provincial Police, municipal,35034,Crime severity index,v65809325,261.9,33.57
+2013,Rimbey, Alberta, Royal Canadian Mounted Police, municipal,48911,Crime severity index,v65813381,599.9,..
+2013,Rimouski, Quebec,, municipal,24225,Crime severity index,v65808137,162.9,..
+2013,Rivers, Manitoba,, municipal,46040,Crime severity index,v65811509,443.9,72.36
+2013,Rivi�re-du-Loup, Quebec,, municipal,24228,Crime severity index,v65808149,163.9,..
+2013,Roberval, Quebec,, municipal,24233,Crime severity index,v65808185,166.9,..
+2013,Roblin, Manitoba, Royal Canadian Mounted Police, municipal,46765,Crime severity index,v65811701,459.9,185.64
+2013,Rocky Mountain House, Alberta, Royal Canadian Mounted Police, municipal,48888,Crime severity index,v65813225,586.9,134.21
+2013,Rosem�re, Quebec,, municipal,24230,Crime severity index,v65808161,164.9,..
+2013,Rosetown, Saskatchewan, Royal Canadian Mounted Police, municipal,47858,Crime severity index,v65812265,506.9,..
+2013,Ross River, Yukon, Royal Canadian Mounted Police, rural,60706,Crime severity index,v66460596,8.1,0
+2013,Roussillon Region, Quebec,, municipal,24047,Crime severity index,v65807045,71.9,41.57
+2013,Rouyn-noranda, Quebec,, municipal,24235,Crime severity index,v65808197,167.9,..
+2013,Russell, Manitoba, Royal Canadian Mounted Police, municipal,46740,Crime severity index,v65811641,454.9,76.57
+2013,Russell County (Casselman), Ontario, Ontario Provincial Police, municipal,35180,Crime severity index,v65810597,367.9,49.14
+2013,Russell County (Russell), Ontario, Ontario Provincial Police, municipal,35179,Crime severity index,v65810585,366.9,29.01
+2013,Russell County/Hawkesbury (The Nation), Ontario, Ontario Provincial Police, municipal,35190,Crime severity index,v65810669,373.9,33.20
+2013,Saanich, British Columbia,, municipal,59019,Crime severity index,v65813561,614.9,41.28
+2013,Sachs Harbour, Northwest Territories, Royal Canadian Mounted Police, rural,61001,Crime severity index,v66460722,18.1,0
+2013,Sackville, New Brunswick,, municipal,13033,Crime severity index,v65806757,47.9,..
+2013,Sackville, New Brunswick, Royal Canadian Mounted Police, municipal,13008,Crime severity index,v65806685,41.9,66.58
+2013,Saguenay, Quebec,, municipal,24241,Crime severity index,v65808257,172.9,59.03
+2013,Saint Jean-sur-Richelieu, Quebec,, municipal,24272,Crime severity index,v65808473,190.9,63.56
+2013,Saint John, New Brunswick,, municipal,13027,Crime severity index,v65806733,45.9,95.18
+2013,Saint Quentin, New Brunswick, Royal Canadian Mounted Police, municipal,13708,Crime severity index,v65806853,55.9,82.05
+2013,Saint-romuald, Quebec,, municipal,24299,Crime severity index,v65808569,198.9,..
+2013,Salaberry-de-valley., Quebec,, municipal,24345,Crime severity index,v65808797,217.9,..
+2013,Salmon Arm, British Columbia, Royal Canadian Mounted Police, municipal,59776,Crime severity index,v65813943,646.9,66.46
+2013,Sanikiluaq, Northwest Territories, Royal Canadian Mounted Police, rural,61781,Crime severity index,v66461226,60.1,..
+2013,Sanikiluaq, Nunavut, Royal Canadian Mounted Police, rural,62003,Crime severity index,v66461352,70.1,0
+2013,Sarnia, Ontario,, municipal,35261,Crime severity index,v65810861,389.9,74.18
+2013,Saskatoon, Saskatchewan,, municipal,47066,Crime severity index,v65811953,480.9,109.79
+2013,Saugeen Shores, Ontario,, municipal,35240,Crime severity index,v65810825,386.9,48.25
+2013,Sault Ste. Marie, Ontario,, municipal,35262,Crime severity index,v65810873,390.9,79.96
+2013,Sault Ste. Marie (Laird), Ontario, Ontario Provincial Police, municipal,35134,Crime severity index,v65810165,331.9,41.26
+2013,Sault Ste. Marie (Macdonald/Meredith), Ontario, Ontario Provincial Police, municipal,35132,Crime severity index,v65810153,330.9,9.04
+2013,Schefferville, Quebec,, municipal,24181,Crime severity index,v65807861,139.9,..
+2013,Schreiber (Terrace Bay), Ontario, Ontario Provincial Police, municipal,35115,Crime severity index,v65810033,320.9,36.63
+2013,Sechelt, British Columbia, Royal Canadian Mounted Police, municipal,59863,Crime severity index,v65814195,667.9,62.61
+2013,Selkirk, Manitoba, Royal Canadian Mounted Police, municipal,46804,Crime severity index,v65811821,469.9,139.48
+2013,Selwyn, Ontario, Ontario Provincial Police, municipal,35023,Crime severity index,v65809193,250.9,20.61
+2013,Sept-�les, Quebec,, municipal,24318,Crime severity index,v65808641,204.9,..
+2013,Shaunavon, Saskatchewan, Royal Canadian Mounted Police, municipal,47900,Crime severity index,v65812313,510.9,..
+2013,Shawinigan, Quebec,, municipal,24321,Crime severity index,v65808653,205.9,..
+2013,Shawinigan, Quebec,, municipal,24236,Crime severity index,v65808209,168.9,..
+2013,Shawinigan-sud, Quebec,, municipal,24322,Crime severity index,v65808665,206.9,..
+2013,Shelburne, Nova Scotia, Royal Canadian Mounted Police, municipal,12836,Crime severity index,v65806625,36.9,168.32
+2013,Shelburne, Ontario,, municipal,35265,Crime severity index,v65810885,391.9,27.57
+2013,Sherbrooke, Quebec,, municipal,24323,Crime severity index,v65808677,207.9,58.40
+2013,Sidney, British Columbia, Royal Canadian Mounted Police, municipal,59925,Crime severity index,v65814327,678.9,42.02
+2013,Siksika Nation, Alberta,, municipal,48092,Crime severity index,v65812649,538.9,..
+2013,Sillery, Quebec,, municipal,24324,Crime severity index,v65808689,208.9,..
+2013,Sioux Narrows/Nestor Falls, Ontario, Ontario Provincial Police, municipal,35031,Crime severity index,v65809289,258.9,..
+2013,Six Nations, Ontario,, municipal,35210,Crime severity index,v65810753,380.9,245.50
+2013,Slave Lake, Alberta, Royal Canadian Mounted Police, municipal,48858,Crime severity index,v65813105,576.9,168.10
+2013,Smithers, British Columbia, Royal Canadian Mounted Police, municipal,59866,Crime severity index,v65814219,669.9,135.08
+2013,Smiths Falls, Ontario,, municipal,35268,Crime severity index,v65810897,392.9,95.33
+2013,Smooth Rock Falls, Ontario, Ontario Provincial Police, municipal,35079,Crime severity index,v65809721,294.9,43.30
+2013,Sooke, British Columbia, Royal Canadian Mounted Police, municipal,59020,Crime severity index,v65813573,615.9,56.39
+2013,Sorel-tracy, Quebec,, municipal,24325,Crime severity index,v65808701,209.9,..
+2013,Souris, Manitoba, Royal Canadian Mounted Police, municipal,46729,Crime severity index,v65811593,450.9,41.43
+2013,South Bruce (Kincardine), Ontario, Ontario Provincial Police, municipal,35482,Crime severity index,v65811293,425.9,47.36
+2013,South Simcoe (Innisfil), Ontario,, municipal,35275,Crime severity index,v65810921,394.9,32.06
+2013,Southern Georgian Bay (Penetanguishene), Ontario, Ontario Provincial Police, municipal,35469,Crime severity index,v65811197,417.9,57.77
+2013,Spallumcheen, British Columbia, Royal Canadian Mounted Police, municipal,59038,Crime severity index,v80750946,725.9,52.15
+2013,Spallumcheen, British Columbia, Royal Canadian Mounted Police, rural,59718,Crime severity index,v65813787,633.9,..
+2013,Springhill, Nova Scotia,, municipal,12043,Crime severity index,v65806433,20.9,139.55
+2013,Spruce Grove, Alberta, Royal Canadian Mounted Police, municipal,48795,Crime severity index,v65812913,560.9,77.23
+2013,Squamish, British Columbia, Royal Canadian Mounted Police, municipal,59870,Crime severity index,v65814231,670.9,97.23
+2013,St. Adolphe-d'howard, Quebec,, municipal,24092,Crime severity index,v65807237,87.9,..
+2013,St. Albert, Alberta, Royal Canadian Mounted Police, municipal,48770,Crime severity index,v65812805,551.9,45.47
+2013,St. Andrews, New Brunswick, Royal Canadian Mounted Police, municipal,13704,Crime severity index,v65806805,51.9,129.34
+2013,St. Basile-le-grand, Quebec,, municipal,24048,Crime severity index,v65807057,72.9,..
+2013,St. Bruno, Quebec,, municipal,24246,Crime severity index,v65808293,175.9,..
+2013,St. C�saire, Quebec,, municipal,24239,Crime severity index,v65808245,171.9,..
+2013,St. Donat, Quebec,, municipal,24252,Crime severity index,v65808305,176.9,..
+2013,St. Eustache, Quebec,, municipal,24257,Crime severity index,v65808341,179.9,55.73
+2013,St. F�licien, Quebec,, municipal,24261,Crime severity index,v65808389,183.9,..
+2013,St. Georges, Quebec,, municipal,24266,Crime severity index,v65808413,185.9,..
+2013,St. Hubert, Quebec,, municipal,24269,Crime severity index,v65808449,188.9,..
+2013,St. Hyacinthe, Quebec,, municipal,24271,Crime severity index,v65808461,189.9,..
+2013,St. John's, Newfoundland and Labrador, Royal Newfoundland Constabulary, municipal,10500,Crime severity index,v65806205,1.9,78.38
+2013,St. J�r�me, Quebec,, municipal,24275,Crime severity index,v65808509,193.9,96.89
+2013,St. Lambert, Quebec,, municipal,24145,Crime severity index,v65807585,116.9,..
+2013,St. Lazare, Quebec,, municipal,24286,Crime severity index,v65808533,195.9,..
+2013,St. Luc, Quebec,, municipal,24138,Crime severity index,v65807525,111.9,..
+2013,St. Paul, Alberta, Royal Canadian Mounted Police, municipal,48772,Crime severity index,v65812817,552.9,202.14
+2013,St. R�mi, Quebec,, municipal,24300,Crime severity index,v65808581,199.9,..
+2013,St. Stephen-milltown, New Brunswick,, municipal,13032,Crime severity index,v65806745,46.9,..
+2013,St. Thomas, Ontario,, municipal,35258,Crime severity index,v65810849,388.9,41.12
+2013,St.sauveur-des-monts, Quebec,, municipal,24304,Crime severity index,v65808605,201.9,..
+2013,Ste. Ad�le, Quebec,, municipal,24238,Crime severity index,v65808233,170.9,..
+2013,Ste. Agathe-des-monts, Quebec,, municipal,24242,Crime severity index,v65808269,173.9,..
+2013,Ste. Anne, Manitoba,, municipal,46068,Crime severity index,v65811569,448.9,53.96
+2013,Ste. Foy, Quebec,, municipal,24262,Crime severity index,v65808401,184.9,..
+2013,Ste. Julie, Quebec,, municipal,24371,Crime severity index,v65808869,223.9,..
+2013,Ste. Marie, Quebec,, municipal,24291,Crime severity index,v65808545,196.9,28.46
+2013,Ste. Th�r�se, Quebec,, municipal,24306,Crime severity index,v65808629,203.9,..
+2013,Steinbach, Manitoba, Royal Canadian Mounted Police, municipal,46816,Crime severity index,v65811845,471.9,67.63
+2013,Stellarton, Nova Scotia,, municipal,12044,Crime severity index,v65806445,21.9,54.25
+2013,Stettler, Alberta, Royal Canadian Mounted Police, municipal,48886,Crime severity index,v65813213,585.9,101.71
+2013,Stirling, Ontario,, municipal,35273,Crime severity index,v65810909,393.9,30.88
+2013,Stl'atl'imx Tribal (Lillooet-Pemberton), British Columbia,, municipal,59002,Crime severity index,v65813441,604.9,145.37
+2013,Stonewall, Manitoba, Royal Canadian Mounted Police, municipal,46806,Crime severity index,v65811833,470.9,52.52
+2013,Stony Plain, Alberta, Royal Canadian Mounted Police, municipal,48796,Crime severity index,v65812925,561.9,63.75
+2013,Stormont/Dundas/Glengarry, Ontario, Ontario Provincial Police, municipal,35089,Crime severity index,v65809793,300.9,33.21
+2013,Stoughton, Saskatchewan,, municipal,47095,Crime severity index,v65812001,484.9,..
+2013,Stratford, Prince Edward Island, Royal Canadian Mounted Police, municipal,11714,Crime severity index,v65806301,9.9,51.90
+2013,Stratford, Ontario,, municipal,35281,Crime severity index,v65810933,395.9,57.00
+2013,Strathcona, Alberta, Royal Canadian Mounted Police, municipal,48768,Crime severity index,v65812793,550.9,50.23
+2013,Strathmore, Alberta, Royal Canadian Mounted Police, municipal,48903,Crime severity index,v65813333,595.9,103.41
+2013,Strathroy-Caradoc, Ontario,, municipal,35282,Crime severity index,v65810945,396.9,39.05
+2013,Sturgeon Falls, Ontario,, municipal,35284,Crime severity index,v65810957,397.9,34.94
+2013,Summerland, British Columbia, Royal Canadian Mounted Police, municipal,59741,Crime severity index,v65813871,640.9,36.02
+2013,Summerside, Prince Edward Island,, municipal,11007,Crime severity index,v65806253,5.9,115.52
+2013,Superior East (Wawa), Ontario, Ontario Provincial Police, municipal,35375,Crime severity index,v65811101,409.9,65.79
+2013,Surrey, British Columbia, Royal Canadian Mounted Police, municipal,59704,Crime severity index,v65813703,626.9,114.32
+2013,Swan Hills, Alberta, Royal Canadian Mounted Police, municipal,48801,Crime severity index,v65812985,566.9,..
+2013,Swan River, Manitoba, Royal Canadian Mounted Police, municipal,46770,Crime severity index,v65811713,460.9,268.83
+2013,Swift Current, Saskatchewan, Royal Canadian Mounted Police, municipal,47906,Crime severity index,v65812325,511.9,89.02
+2013,Sydney, Nova Scotia,, municipal,12048,Crime severity index,v65806457,22.9,..
+2013,Sylvan Lake, Alberta, Royal Canadian Mounted Police, municipal,48904,Crime severity index,v65813345,596.9,79.21
+2013,Taber, Alberta,, municipal,48088,Crime severity index,v65812613,535.9,75.23
+2013,Taloyoak, Nunavut, Royal Canadian Mounted Police, rural,62010,Crime severity index,v66461436,77.1,0
+2013,Taloyoak, Northwest Territories, Royal Canadian Mounted Police, rural,61773,Crime severity index,v66461154,54.1,..
+2013,Tecumseh, Ontario, Ontario Provincial Police, municipal,35506,Crime severity index,v65811413,435.9,22.54
+2013,Temiskaming (Dymond), Ontario, Ontario Provincial Police, municipal,35059,Crime severity index,v65809577,282.9,..
+2013,Temiskaming (New Liskeard), Ontario, Ontario Provincial Police, municipal,35176,Crime severity index,v65810549,363.9,..
+2013,Temiskaming (Temagami), Ontario, Ontario Provincial Police, municipal,35060,Crime severity index,v65809589,283.9,..
+2013,Temiskaming (Temiskaming Shores), Ontario, Ontario Provincial Police, municipal,35219,Crime severity index,v95715422,727.9,..
+2013,Temiskaming Shores, Ontario,, municipal,35192,Crime severity index,v65810681,374.9,..
+2013,Terrace, British Columbia, Royal Canadian Mounted Police, municipal,59861,Crime severity index,v65814183,666.9,153.43
+2013,Terrace Bay, Ontario,, municipal,35399,Crime severity index,v65811125,411.9,..
+2013,Terrebonne, Quebec,, municipal,24333,Crime severity index,v65808713,210.9,55.71
+2013,Teslin, Yukon, Royal Canadian Mounted Police, rural,60707,Crime severity index,v66460608,9.1,0
+2013,The Blue Mountains, Ontario, Ontario Provincial Police, municipal,35135,Crime severity index,v65810177,332.9,46.49
+2013,The Pas, Manitoba, Royal Canadian Mounted Police, municipal,46772,Crime severity index,v65811725,461.9,291.38
+2013,Thetford Mines, Quebec,, municipal,24334,Crime severity index,v65808725,211.9,52.17
+2013,Thompson, Manitoba, Royal Canadian Mounted Police, municipal,46774,Crime severity index,v65811737,462.9,253.58
+2013,Three Hills, Alberta, Royal Canadian Mounted Police, municipal,48905,Crime severity index,v65813357,597.9,..
+2013,Thunder Bay, Ontario,, municipal,35299,Crime severity index,v65811005,401.9,83.08
+2013,Thunder Bay (Neebing), Ontario, Ontario Provincial Police, municipal,35220,Crime severity index,v95715434,728.9,..
+2013,Thunder Bay (Shuniah), Ontario, Ontario Provincial Police, municipal,35033,Crime severity index,v65809313,260.9,33.12
+2013,Th�r�se-de-Blainville, Quebec,, municipal,24267,Crime severity index,v65808425,186.9,55.58
+2013,Tillsonburg, Ontario,, municipal,35302,Crime severity index,v65961606,696.9,..
+2013,Timiskaming First Nations, Quebec,, municipal,24139,Crime severity index,v65807537,112.9,..
+2013,Timmins, Ontario,, municipal,35289,Crime severity index,v65810969,398.9,84.98
+2013,Tisdale, Saskatchewan, Royal Canadian Mounted Police, municipal,47770,Crime severity index,v65812157,497.9,..
+2013,Toronto, Ontario,, municipal,35304,Crime severity index,v65811017,402.9,59.15
+2013,Town of Grand Valley, Ontario, Ontario Provincial Police, municipal,35119,Crime severity index,v65810069,323.9,27.43
+2013,Tracy, Quebec,, municipal,24336,Crime severity index,v65961522,689.9,..
+2013,Trail, British Columbia, Royal Canadian Mounted Police, municipal,59811,Crime severity index,v65814015,652.9,98.25
+2013,Treaty Three Communities, Ontario,, municipal,35155,Crime severity index,v65810345,346.9,426.34
+2013,Trenton, Ontario,, municipal,35307,Crime severity index,v65811029,403.9,..
+2013,Trenton, Nova Scotia,, municipal,12059,Crime severity index,v65806505,26.9,..
+2013,Trois-Rivi�res, Quebec,, municipal,24237,Crime severity index,v65808221,169.9,62.88
+2013,Trois-rivi�res, Quebec,, municipal,24338,Crime severity index,v65808737,212.9,..
+2013,Trois-rivi�res-ouest, Quebec,, municipal,24339,Crime severity index,v65808749,213.9,..
+2013,Truro, Nova Scotia,, municipal,12052,Crime severity index,v65806469,23.9,95.96
+2013,Tsuu Tina, Alberta,, municipal,48004,Crime severity index,v65812457,522.9,256.28
+2013,Tuktoyaktuk, Northwest Territories, Royal Canadian Mounted Police, rural,61737,Crime severity index,v66460986,40.1,0
+2013,Tulita, Northwest Territories, Royal Canadian Mounted Police, rural,61734,Crime severity index,v66460962,38.1,0
+2013,Tyendinaga, Ontario, Ontario Provincial Police, municipal,35111,Crime severity index,v65809985,316.9,..
+2013,Uashat Mak Mani-Utenam, Quebec,, municipal,24177,Crime severity index,v65807813,135.9,297.38
+2013,Ulukhaktok, Northwest Territories, Royal Canadian Mounted Police, rural,61711,Crime severity index,v66460878,31.1,0
+2013,United Chiefs and Councils of Manitoulin (UCCM) Anishnaabe, Ontario,, municipal,35320,Crime severity index,v65811041,404.9,127.29
+2013,Unity, Saskatchewan, Royal Canadian Mounted Police, municipal,47732,Crime severity index,v65812097,492.9,..
+2013,Upper Ottawa Valley (Laurentian Hills), Ontario, Ontario Provincial Police, municipal,35173,Crime severity index,v65810537,362.9,24.03
+2013,Upper Ottawa Valley (Petawawa), Ontario, Ontario Provincial Police, municipal,35169,Crime severity index,v65810489,358.9,38.58
+2013,Val-b�lair, Quebec,, municipal,24342,Crime severity index,v65808773,215.9,..
+2013,Val-d'or, Quebec,, municipal,24343,Crime severity index,v65808785,216.9,..
+2013,Valcourt, Quebec,, municipal,24340,Crime severity index,v65808761,214.9,..
+2013,Valleyview, Alberta, Royal Canadian Mounted Police, municipal,48861,Crime severity index,v65813129,578.9,..
+2013,Vall�e-du-richelieu, Quebec,, municipal,24029,Crime severity index,v65806973,65.9,..
+2013,Vancouver, British Columbia,, municipal,59023,Crime severity index,v65813597,617.9,105.18
+2013,Varennes, Quebec,, municipal,24243,Crime severity index,v65808281,174.9,..
+2013,Vaudreuil-dorion, Quebec,, municipal,24346,Crime severity index,v65808809,218.9,..
+2013,Vegreville, Alberta, Royal Canadian Mounted Police, municipal,48780,Crime severity index,v65812829,553.9,133.52
+2013,Vermilion, Alberta, Royal Canadian Mounted Police, municipal,48782,Crime severity index,v65812841,554.9,..
+2013,Vernon, British Columbia, Royal Canadian Mounted Police, municipal,59780,Crime severity index,v65813955,647.9,134.74
+2013,Victoria, British Columbia,, municipal,59025,Crime severity index,v65813609,618.9,102.51
+2013,Victoriaville, Quebec,, municipal,24351,Crime severity index,v65808821,219.9,..
+2013,View Royal, British Columbia, Royal Canadian Mounted Police, municipal,59864,Crime severity index,v65814207,668.9,48.08
+2013,Virden, Manitoba, Royal Canadian Mounted Police, municipal,46744,Crime severity index,v65811653,455.9,56.18
+2013,Wadena, Saskatchewan, Royal Canadian Mounted Police, municipal,47930,Crime severity index,v65812385,516.9,..
+2013,Wainwright, Alberta, Royal Canadian Mounted Police, municipal,48786,Crime severity index,v65812853,555.9,66.64
+2013,Warman, Saskatchewan, Royal Canadian Mounted Police, municipal,47956,Crime severity index,v65812433,520.9,35.56
+2013,Waskaganish, Quebec,, municipal,24377,Crime severity index,v65808917,227.9,..
+2013,Waswanipi, Quebec,, municipal,24376,Crime severity index,v65808905,226.9,..
+2013,Waterloo Region (Kitchener), Ontario,, municipal,35291,Crime severity index,v65810993,400.9,56.48
+2013,Watrous, Saskatchewan, Royal Canadian Mounted Police, municipal,47865,Crime severity index,v65812277,507.9,..
+2013,Watson, Saskatchewan,, municipal,47096,Crime severity index,v65961630,698.9,..
+2013,Watson Lake, Yukon, Royal Canadian Mounted Police, rural,60708,Crime severity index,v66460620,10.1,487.38
+2013,Wellington County, Ontario, Ontario Provincial Police, municipal,35073,Crime severity index,v65809661,289.9,29.08
+2013,Wemindji, Quebec,, municipal,24378,Crime severity index,v65808929,228.9,..
+2013,Wemotaci, Quebec,, municipal,24150,Crime severity index,v65807621,119.9,240.20
+2013,Wendake First Nations, Quebec,, municipal,24160,Crime severity index,v65807705,126.9,64.14
+2013,West Grey, Ontario,, municipal,35088,Crime severity index,v65809781,299.9,31.99
+2013,West Kelowna, British Columbia, Royal Canadian Mounted Police, municipal,59027,Crime severity index,v65813633,620.9,61.39
+2013,West Vancouver, British Columbia,, municipal,59026,Crime severity index,v65813621,619.9,44.39
+2013,Westlock, Alberta, Royal Canadian Mounted Police, municipal,48799,Crime severity index,v65812961,564.9,..
+2013,Westville, Nova Scotia,, municipal,12054,Crime severity index,v65806481,24.9,44.81
+2013,Wetaskiwin, Alberta, Royal Canadian Mounted Police, municipal,48890,Crime severity index,v65813237,587.9,141.92
+2013,Weyburn, Saskatchewan,, municipal,47083,Crime severity index,v65811965,481.9,82.06
+2013,Wha Ti, Northwest Territories, Royal Canadian Mounted Police, rural,61713,Crime severity index,v66460902,33.1,0
+2013,Whale Cove, Nunavut, Royal Canadian Mounted Police, rural,62027,Crime severity index,v66461604,91.1,0
+2013,Whapmagoostui, Quebec,, municipal,24201,Crime severity index,v65807945,146.9,..
+2013,Whistler, British Columbia, Royal Canadian Mounted Police, municipal,59784,Crime severity index,v65813979,649.9,129.83
+2013,White Rock, British Columbia, Royal Canadian Mounted Police, municipal,59880,Crime severity index,v65814255,672.9,56.73
+2013,Whitecourt, Alberta, Royal Canadian Mounted Police, municipal,48789,Crime severity index,v65812865,556.9,143.41
+2013,Whitehorse, Yukon, Royal Canadian Mounted Police, rural,60709,Crime severity index,v66460632,11.1,137.45
+2013,Whitehorse, Yukon, Royal Canadian Mounted Police, rural,60711,Crime severity index,v66460644,12.1,..
+2013,Wiarton (South Bruce Peninsula), Ontario, Ontario Provincial Police, municipal,35489,Crime severity index,v65811341,429.9,44.86
+2013,Wikwemikong, Ontario,, municipal,35130,Crime severity index,v65810141,329.9,271.81
+2013,Wilkie, Saskatchewan, Royal Canadian Mounted Police, municipal,47730,Crime severity index,v65812085,491.9,..
+2013,Williams Lake, British Columbia, Royal Canadian Mounted Police, municipal,59927,Crime severity index,v65814351,680.9,216.43
+2013,Windsor, Nova Scotia, Royal Canadian Mounted Police, municipal,12744,Crime severity index,v65806553,30.9,90.27
+2013,Windsor, Quebec,, municipal,24357,Crime severity index,v65808833,220.9,..
+2013,Windsor, Ontario,, municipal,35331,Crime severity index,v65811053,405.9,81.77
+2013,Wingham, Ontario,, municipal,35332,Crime severity index,v65811065,406.9,64.81
+2013,Winkler, Manitoba,, municipal,46061,Crime severity index,v65811533,445.9,45.65
+2013,Winnipeg, Manitoba,, municipal,46064,Crime severity index,v65811545,446.9,87.54
+2013,Wolfville, Nova Scotia,, municipal,12056,Crime severity index,v65961702,704.9,..
+2013,Wood Buffalo, Alberta, Royal Canadian Mounted Police, municipal,48756,Crime severity index,v65812769,548.9,100.60
+2013,Woodstock, Ontario,, municipal,35013,Crime severity index,v65809085,241.9,60.98
+2013,Woodstock, New Brunswick,, municipal,13037,Crime severity index,v65806769,48.9,107.23
+2013,Wrigley, Northwest Territories, Royal Canadian Mounted Police, rural,61003,Crime severity index,v66460746,20.1,0
+2013,Wynyard, Saskatchewan, Royal Canadian Mounted Police, municipal,47936,Crime severity index,v65812409,518.9,..
+2013,W�linak, Quebec,, municipal,24256,Crime severity index,v65808329,178.9,..
+2013,Yarmouth, Nova Scotia, Royal Canadian Mounted Police, municipal,12834,Crime severity index,v65806613,35.9,131.34
+2013,Yellow Grass, Saskatchewan,, municipal,47102,Crime severity index,v65961642,699.9,..
+2013,Yellowknife, Northwest Territories, Royal Canadian Mounted Police, rural,61779,Crime severity index,v66461214,59.1,..
+2013,Yellowknife, Northwest Territories, Royal Canadian Mounted Police, rural,61775,Crime severity index,v66461178,56.1,..
+2013,Yellowknife, Northwest Territories, Royal Canadian Mounted Police, rural,61774,Crime severity index,v66461166,55.1,229.1
+2013,Yellowknife (Coast Guard auxiliary), Northwest Territories, Royal Canadian Mounted Police, rural,61709,Crime severity index,v66460866,30.1,0
+2013,York Region (Markham/Vaughn), Ontario,, municipal,35335,Crime severity index,v65811077,407.9,32.43
+2013,Yorkton, Saskatchewan, Royal Canadian Mounted Police, municipal,47931,Crime severity index,v65812397,517.9,134.84
